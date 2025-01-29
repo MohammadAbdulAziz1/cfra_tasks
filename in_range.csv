@@ -1,0 +1,1447 @@
+firstbridge_id,composite_ticker,sponsor,as_of_date,asset_class
+002c97de570d4b298c6f0230cb45010b,ARG1,Leverage Shares,2024-12-06,Equities (Stocks)
+00db75aebc0e464fb1a87b87e32c60d7,P500,Invesco,2024-12-06,Equities (Stocks)
+00ed20632757416ab6c62812baa048e7,OP5E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+011a684019cf4ab0b3ea739af034dff0,AAPY,Leverage Shares,2024-12-06,Equities (Stocks)
+02aea14f1cf14fd297cc98705e2e2068,SC01,Invesco,2024-12-06,Equities (Stocks)
+0320fbfa6c954fabb51cc3433a8bcf3b,3SSM,Leverage Shares,2024-12-06,Equities (Stocks)
+049e74f41b274a92b3cd041a118aaf94,ABCH,21Shares,2024-11-27,Other Asset Types
+04aa40176d0d4a49aa8044e3c4d35032,USLG,21Shares,2024-11-27,Other Asset Types
+04d92f0144d14d4f872f1626b0e2890b,SCO3,Leverage Shares,2024-12-06,Equities (Stocks)
+04ffa48473d646899006a351a8f1cc65,TLT5,Leverage Shares,2024-12-06,Bonds
+052b1dbc8dad4b7399b2f83cd40a7a8c,EUPA,OSSIAM ETF,2024-12-11,Equities (Stocks)
+05463da1e8764aabab9ee234d5c8162f,PPAS,Leverage Shares,2024-12-06,Equities (Stocks)
+0550404c342e4c1aa3535270c4aa1651,IGOG,Leverage Shares,2024-12-06,Equities (Stocks)
+0590fcc3abda4f9aaa62b61a8bb4e0d1,H4Z7,HSBC,2024-12-11,Equities (Stocks)
+05bb7e3c480344a9a393985094276e0e,H4ZY,HSBC,2024-12-11,Equities (Stocks)
+060d31fc905c43eabaa83ba13a34f6f2,E500,Invesco,2024-12-06,Equities (Stocks)
+08d9c99004784ba585306ecb08093f09,CZX,Expat Capital,2024-11-29,Equities (Stocks)
+096872b7e7324f8f943546cc04f7444f,FB3,Leverage Shares,2024-12-06,Equities (Stocks)
+0018e0c0a29541afa42b441ed4761a6a,GREN,Goldman Sachs,2024-12-06,Bonds
+0032460d45024e62bb6a078013aa40d6,SPXE,Invesco,2024-12-06,Equities (Stocks)
+004e03267ed14700948045bbbbb7c0c5,3PYE,Leverage Shares,2024-12-06,Equities (Stocks)
+008613cfe4074ef59d69bae9ea9d2f76,AAPS,Leverage Shares,2024-12-06,Equities (Stocks)
+0125ca95ea8844f5958ddc0fbb1a2aa9,5SPE,Leverage Shares,2024-12-06,Equities (Stocks)
+017022ef1a8a448aa9f57bc6646fed45,DISS,Leverage Shares,2024-12-06,Equities (Stocks)
+02bc4fa9eb3241dab8c407be83298a11,BTCU,21Shares,2024-11-27,Other Asset Types
+034f037e6f3847168f6ae901644dd47a,BIUS,Leverage Shares,2024-12-06,Equities (Stocks)
+037e797b04534cf2a90caf05633e9226,HWSC,HSBC,2024-12-11,Equities (Stocks)
+03addfac55aa41bc8020db74a65bb887,WTI2,Leverage Shares,2024-12-06,Commodities & Metals
+03d92ae6f4ff49068ceb6126cba74f97,NGLS,Leverage Shares,2024-12-06,Commodities & Metals
+046c6bad0dd846a4b7228fc662852137,WTI,Leverage Shares,2024-12-06,Commodities & Metals
+057542e07e45434c8992a69bc13a15c3,3ADE,Leverage Shares,2024-12-06,Equities (Stocks)
+059110442c4b45739ce4888f9ce914b6,SMST,Leverage Shares,2024-12-06,Equities (Stocks)
+05d08a87ab9340f284a31cc37b16303b,SX5S,Invesco,2024-12-06,Equities (Stocks)
+05dd9ceefb85417ba762c2cce2eba35b,CAPU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+069ba8506d0f41dc869d5cc8d142ff41,3TSE,Leverage Shares,2024-12-06,Equities (Stocks)
+06e8126dc02d4502bc89e23a8e0cf7a4,5QQQ,Leverage Shares,2024-12-06,Equities (Stocks)
+0726f574e0f44f71bb1bfa8860e864b2,XLVS,Invesco,2024-12-06,Equities (Stocks)
+07c65c0a5d024b8f81ec6f35bc4cf40c,SMSF,Leverage Shares,2024-12-06,Equities (Stocks)
+07d426fa0be3481a9456287730d30b83,KRON,Leverage Shares,2024-12-06,Equities (Stocks)
+083e47286d33461ca7cb34ecd7d6ffc4,XLE3,Leverage Shares,2024-12-06,Equities (Stocks)
+08a719c1b92f41809eb6af6bc26f69bc,3JPE,Leverage Shares,2024-12-06,Equities (Stocks)
+09d8675e39c7425cbc767e115d25f3ec,VPCG,Leverage Shares,2024-12-06,Equities (Stocks)
+0a003bf8194544f5ade4b4607658d676,3GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+036e8d3b923340df9eda82f1a3214d2c,HMJD,HSBC,2024-12-11,Equities (Stocks)
+081d2b14b6c44d99bad17e5bef562692,X7PS,Invesco,2024-12-06,Equities (Stocks)
+098506c10425415bacccb2a176a78cab,HIDD,HSBC,2024-12-11,Equities (Stocks)
+059a3c11ce56449f9412532b00ab8aec,MLPS,Invesco,2024-12-06,Other Asset Types
+075dc94135124874acd7c7e7bbb8072a,ASOLCHF,21Shares,2024-11-27,Other Asset Types
+07b00968832c4f4185cc6049bdb82c28,MSAU,Invesco,2024-12-06,Equities (Stocks)
+0a8c47f663b24f269d4bcd430ee1985b,SX5E,Invesco,2024-12-06,Equities (Stocks)
+010d112833fc40e1bf9167c9ff868503,TSLA,Leverage Shares,2024-12-06,Equities (Stocks)
+039dac2ec5cc41efaef0e9c2eae87aef,POLY,21Shares,2024-11-27,Other Asset Types
+06a9b3d644424499a6cc42ad1562778f,AARB,21Shares,2024-11-27,Other Asset Types
+0a28a41447b74537bb418c86c9fca09a,ABTC,21Shares,2024-11-27,Other Asset Types
+0231020b972f4e01a8986d0259f3d0cc,OP4E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+05298ce280a5466b8386592902a37ef1,ALGO,21Shares,2024-11-27,Other Asset Types
+07b5a32194aa4d4b8e5d9626830419a9,UKX,HSBC,2024-12-11,Equities (Stocks)
+07f0d7483df24398906301e03ebe1245,HSXD,HSBC,2024-12-11,Equities (Stocks)
+082be4bae2c34c94b2a97fdb874c7ab0,MANA,21Shares,2024-11-27,Other Asset Types
+09a7261ad6704bc6a7329e93cea43cd2,MUS,HSBC,2024-12-11,Equities (Stocks)
+0ba8f59218cb4c6ead16893276dbca9f,H4ZE,HSBC,2024-12-11,Equities (Stocks)
+0dcc326b67f54e0aae4030cfcdbfab85,COIY,Leverage Shares,2024-12-06,Equities (Stocks)
+0f46b35fa4e94f25b221cf5653b63965,3GGL,Leverage Shares,2024-12-06,Equities (Stocks)
+0fd30b3e818d4753b9f5e1c64e87ce0f,NOS3,Leverage Shares,2024-12-06,Equities (Stocks)
+105d25e5357c4d139f7f1decce1bd54e,3SAA,Leverage Shares,2024-12-06,Equities (Stocks)
+121a5a9be59147e0b3f09625c72eb326,EL45,Deka ETF,2024-11-29,Equities (Stocks)
+122107dcfaee426c951d48220b8eee39,DSPY,Leverage Shares,2024-12-06,Equities (Stocks)
+12eeafdab9d847edaaa0c74f59b879f2,3IND,Leverage Shares,2024-12-06,Equities (Stocks)
+12f1f84f536544c891fbdc3e4db5356e,H41E,HSBC,2024-12-11,Equities (Stocks)
+13158ac2a3f1473289d97a74be6296a0,21XP,21Shares,2024-11-27,Other Asset Types
+137ecd41aa174df18d940c63f2c9b649,AXTZ,21Shares,2024-11-27,Other Asset Types
+13bd609abf054e3ba3a3d1b2a334dc7c,USCP,OSSIAM ETF,2024-12-11,Equities (Stocks)
+13f3778e4c1945e58dc5773014dd3cb7,BQGE,OSSIAM ETF,2024-11-26,Equities (Stocks)
+140342f7fc874f7fb6d4c0ba61a3b41c,HUBE,Expat Capital,2024-11-29,Equities (Stocks)
+146e28a67dda4c8483ffdc3219fb4e86,PLX,Expat Capital,2024-11-29,Equities (Stocks)
+14d0524b38df49eaabeb9fb1078af00e,21XJ,21Shares,2024-11-27,Other Asset Types
+0aede05d433e4cac9a4f2dba5cd1b58c,HPRS,HSBC,2024-12-11,Equities (Stocks)
+0c552de33eaf4b2ebdf66d92edabaa5d,HMEA,HSBC,2024-12-11,Equities (Stocks)
+0cbc9dff2e87417c8abb91b3c4547356,KWE3,Leverage Shares,2024-12-06,Equities (Stocks)
+0d0e39afde2649d0b429a16f0b500b7a,HIUA,HSBC,2024-12-11,Equities (Stocks)
+0d38a8e1645f42208ff67ce30a22f062,3GOE,Leverage Shares,2024-12-06,Equities (Stocks)
+0e0b6bf419cc4698b6cb0ab8e00deece,5STL,Leverage Shares,2024-12-06,Bonds
+0e340c14e3c14956b70ed99362574044,3BP,Leverage Shares,2024-12-06,Equities (Stocks)
+0e678f97f31f4a3db6346cedb89092c0,BAS,Leverage Shares,2024-12-06,Equities (Stocks)
+0ea7f0e3ed1a46f1ab6905c3ec512eda,S7XP,Invesco,2024-12-06,Equities (Stocks)
+0ed34d86623b464ea1bf4a0807887838,TSLQ,Leverage Shares,2024-12-06,Equities (Stocks)
+0f25b3a0ef0441178f8a7801afd96c50,2AME,Leverage Shares,2024-12-06,Equities (Stocks)
+0f40cfb528b4497fb26ffc185787d782,GBPG,Goldman Sachs,2024-12-06,Bonds
+0f5cebfc8bb445edbfdbb3c6d1d98b51,MAGS,Leverage Shares,2024-12-06,Equities (Stocks)
+0fe0a77e3aff4486a5ff4448fe00088f,HAGG,HSBC,2024-12-11,Bonds
+10660c17c7a341e8b5538f46c8ce8ea5,CMOC,Invesco,2024-12-06,Commodities & Metals
+1111ddd281874640aea7f56d098c7a7b,IE5S,Leverage Shares,2024-12-06,Bonds
+11fd6acc45fd4a379c8bebdc1b68181b,CPER,Leverage Shares,2024-12-06,Commodities & Metals
+123e882c12cc40bf89f83685672e68b9,ARK1,Leverage Shares,2024-12-06,Equities (Stocks)
+1272595ae2dc46a39a25c5a23826e321,BAB3,Leverage Shares,2024-12-06,Equities (Stocks)
+131039ed374d45bb95a06195a66f30b8,MSFS,Leverage Shares,2024-12-06,Equities (Stocks)
+13112da1db584d8897b41ac4b6ce7eea,SDIS,Leverage Shares,2024-12-06,Equities (Stocks)
+1373afddc6d34e2fb5f0683204846c5c,3SLE,Leverage Shares,2024-12-06,Commodities & Metals
+1382b089ddb9447a9a2b4cbb0ca767dc,3RAC,Leverage Shares,2024-12-06,Equities (Stocks)
+1388740836784f66b58e8764b3d70d71,SNFL,Leverage Shares,2024-12-06,Equities (Stocks)
+13a0ef14d3ca4497a2668ed96d9370ea,3MBG,Leverage Shares,2024-12-06,Equities (Stocks)
+1429793d96384045b7d2c08ba8816b98,HAGS,HSBC,2024-12-11,Bonds
+1471bdef398b41dd815de98cbc3e60e0,KOR3,Leverage Shares,2024-12-06,Equities (Stocks)
+10effe87ae8142f3aa1bb9ebbc87ca75,3SRA,Leverage Shares,2024-12-06,Equities (Stocks)
+14819a177b6341bba72f76a73daec329,3MST,Leverage Shares,2024-12-06,Equities (Stocks)
+0c131693bb964329bd9bdef9bb766b32,HSEM,HSBC,2024-12-11,Equities (Stocks)
+0f19efb93e6046feb4a93efa5992548e,HODLGBP,21Shares,2024-11-27,Other Asset Types
+14cfa681fa7542b69d73e02d50bf066b,HWDC,HSBC,2024-12-11,Equities (Stocks)
+1054adb2e1904ccc9b8d62c45633844d,SPYP,Leverage Shares,2024-12-06,Equities (Stocks)
+10ca93b339bf40ffaa5bd8f27b2b3361,AXRP,21Shares,2024-11-27,Other Asset Types
+0e30d34609a645da9ab417e4a3e1f85d,50E,HSBC,2024-12-11,Equities (Stocks)
+0eb3cb96f4914bf394311d8e3be80a34,HEU,HSBC,2024-12-11,Equities (Stocks)
+1223cd697a5f4347a0bd05c36b4a275f,HIWS,HSBC,2024-12-11,Equities (Stocks)
+0e6e847748be4f6dbbd2f48d3276f24c,AETH,21Shares,2024-11-27,Other Asset Types
+1586f05b0c214558862eb1e9fb504d07,SC0D,Invesco,2024-12-06,Equities (Stocks)
+1754779ca15044e0bbd915acdc401ec0,3CRE,Leverage Shares,2024-12-06,Equities (Stocks)
+17d60c4f5b3f4f46a93129090f7fa9ca,ADOT,21Shares,2024-11-27,Other Asset Types
+1828cbaca4f84d769a4854aca4e1cba5,OP2E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+18971dfb9af84acfa7d71d99a980fa7f,ALC0,21Shares,2024-11-27,Other Asset Types
+199e32193ba3444fa8e753140cbd306a,SBA3,Leverage Shares,2024-12-06,Equities (Stocks)
+19a51bf8348c47c7a59abf7f981d1e4e,3BBE,Leverage Shares,2024-12-06,Equities (Stocks)
+1a8e70bbd538429b8743d504990f00ca,2BTC,21Shares,2024-11-27,Other Asset Types
+1b290731d3a8464fbd559f039c3e5817,TS3S,Leverage Shares,2024-12-06,Equities (Stocks)
+1da5d094f87d48cbb0f7bb7d40dcf6de,3SLV,Leverage Shares,2024-12-06,Commodities & Metals
+1dd98a8ffa3e4cb486685ffb19b8075e,EL42,Deka ETF,2024-11-29,Equities (Stocks)
+1e3ca06038bb430397abe847e132661d,SC0Y,Invesco,2024-12-06,Equities (Stocks)
+1f45cc8b4919439da42cd904a421e70c,3RAC,Leverage Shares,2024-12-06,Equities (Stocks)
+1f500d3314b5422c8029a7eb78c79c5a,2SWT,Leverage Shares,2024-12-06,Commodities & Metals
+158c95b1538046e99a657b1d0aa7fa09,GLDE,Leverage Shares,2024-12-06,Commodities & Metals
+16f1f2abe7cb4bda8faf683d476d92cd,3XOM,Leverage Shares,2024-12-06,Equities (Stocks)
+170e790326bc4530a32a6e67e8a78e7d,MLPS,Invesco,2024-12-06,Other Asset Types
+1740f644f5094b8d804f25058be59c5b,3JD,Leverage Shares,2024-12-06,Equities (Stocks)
+178a80a02314417faccd7c073ac928ff,SM3E,Leverage Shares,2024-12-06,Equities (Stocks)
+17f5076b9c8841f9a15207bbe1f83808,XLUP,Invesco,2024-12-06,Equities (Stocks)
+1816a2e867054dd5980ef9615c481d81,HKOD,HSBC,2024-12-11,Equities (Stocks)
+183e966119954c679f6e71b6b7f685f5,HTWN,HSBC,2024-12-11,Equities (Stocks)
+188da5941d7a43788ef5e0222fc434e6,XLCS,Invesco,2024-12-06,Equities (Stocks)
+18d002f6d35141a1be1dcbca1a21d5ca,3QQQ,Leverage Shares,2024-12-06,Equities (Stocks)
+199bfce218b744368286d3823c80e7a8,HNSC,HSBC,2024-12-11,Equities (Stocks)
+19a28f700c904ebd962174dd8d1bf5b1,KORS,Leverage Shares,2024-12-06,Equities (Stocks)
+1a03fcfd662d4c08bcad0fdd694bf1e2,HIWS,HSBC,2024-12-11,Equities (Stocks)
+1a0d96c326994b1a856fc68299ee6c66,HEVS,HSBC,2024-12-11,Equities (Stocks)
+1a7e1a2a89e04efa8c62dca86921d9a2,HITD,HSBC,2024-12-11,Equities (Stocks)
+1b69ee3da90f4f01b2b3dfc3ca74befb,3UBR,Leverage Shares,2024-12-06,Equities (Stocks)
+1c67647260f945f59f84c6b38755250e,USML,Invesco,2024-12-06,Equities (Stocks)
+1c74d5b5fd9c4aa08c841bf850699bbd,3XFE,Leverage Shares,2024-12-06,Equities (Stocks)
+1c84a9aa71554ae3a54154601ba42545,G500,Invesco,2024-12-06,Equities (Stocks)
+1c95e9d0b18a46c09a28a81d8027dc66,HMCD,HSBC,2024-12-11,Equities (Stocks)
+1d101e0bfb284cd485ba1973b97b9c08,XLUS,Invesco,2024-12-06,Equities (Stocks)
+1e1eabc5d07e4a33aad3fa0bc9ec2219,3BAB,Leverage Shares,2024-12-06,Equities (Stocks)
+1e99f2ee37194aea9b82e8c0bb0d58ab,GPTS,Leverage Shares,2024-12-06,Equities (Stocks)
+1ef697aac47b4b84839a9d6675a343a4,3TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+1f38659085514cbaa23cc1703f49eba7,AMZ1,Leverage Shares,2024-12-06,Equities (Stocks)
+17905d4e0d804125bac0e16adda77522,XLFS,Invesco,2024-12-06,Equities (Stocks)
+199aa885ea9d4577adc449fffadf831f,HPEM,HSBC,2024-12-11,Equities (Stocks)
+1d3c3fcd065b4bb4a70b0a42a4365b53,MXUD,Invesco,2024-12-06,Equities (Stocks)
+15abb199573a41b9a4976d7a075e0a80,SAND,21Shares,2024-11-27,Other Asset Types
+16361e2477604c0e997ceb3b5c8df610,HODLXGBP,21Shares,2024-11-27,Other Asset Types
+1653381726bc439ba12fdc703d19edca,5OGU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+16b290f949d24c9cba548448f586e450,AVAXEUR,21Shares,2024-11-27,Other Asset Types
+17ac294dbee64d7eaaa381c6bffc4cfc,H50E,HSBC,2024-12-11,Equities (Stocks)
+1a005ebad1f24291b552ff6e0b5e39fb,AMKR,21Shares,2024-11-27,Other Asset Types
+165aeb50aeea4fba8d587c57dc196037,STSL,Leverage Shares,2024-12-06,Equities (Stocks)
+1a70776b412a42e0bacc5885030a1795,AMZN,Leverage Shares,2024-12-06,Equities (Stocks)
+1aa80480ba134d72888e4b1ce9200406,3BP,Leverage Shares,2024-12-06,Equities (Stocks)
+1db5116c706c41fca684765717f825a4,AFTM,21Shares,2024-11-27,Other Asset Types
+1e63e3d1ca9a4124b6160290a675cc06,3SQ,Leverage Shares,2024-12-06,Equities (Stocks)
+1528dec002cb4d1d9ec94016e8a37a5e,TONN,21Shares,2024-11-27,Other Asset Types
+15eb24adea274170b000d03bd7359f90,HESS,HSBC,2024-12-11,Equities (Stocks)
+18782ab08618418fafc2ad70952de320,AXRP,21Shares,2024-11-27,Other Asset Types
+1880a9b651e2486880a2a50492c286a1,OP8E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+1e4192c7be3446a99c084abfcf117ab4,5OGE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+20c17285ba86483f9fc6e73aed6af820,H41V,HSBC,2024-12-11,Equities (Stocks)
+211f11ab96004d849604d3667e302ee4,H41D,HSBC,2024-12-11,Equities (Stocks)
+211f720a96e9456c95b1af7f764ec18d,SC0P,Invesco,2024-12-06,Equities (Stocks)
+21815d061fcd4973ad631278ef5663f5,5STI,Leverage Shares,2024-12-06,Bonds
+264db00ad04044dcbb32ca2aa3a9d8a4,XL3S,Leverage Shares,2024-12-06,Equities (Stocks)
+2742cb8b8bee455e92df5c7b1cec2c29,H4Z6,HSBC,2024-12-11,Equities (Stocks)
+281ec723bf2e4beda11396c59cbb2285,SK9A,Expat Capital,2024-11-29,Equities (Stocks)
+285b236019384c689e2800a441ff6965,SC0S,Invesco,2024-12-06,Equities (Stocks)
+28a683282b944eed8f134a655d5c4d03,IFE5,Leverage Shares,2024-12-06,Bonds
+1ffc7d4a954d4c6ca7454da990aafd14,JD1S,Leverage Shares,2024-12-06,Equities (Stocks)
+203ba506ae7046e08a38da35efedfa86,H50A,HSBC,2024-12-11,Equities (Stocks)
+20412f8ecfba4211a354af89841cf7c0,HPAE,HSBC,2024-12-11,Equities (Stocks)
+20c56dbd5fe445dfbacd8e7f8b4b6cff,HPNA,HSBC,2024-12-11,Equities (Stocks)
+2139c4388d9e474ebed336a8491a9c08,HWWA,HSBC,2024-12-11,Equities (Stocks)
+215f8f11437340408126e5628a0c0289,3UB,Leverage Shares,2024-12-06,Equities (Stocks)
+2163fdac21fc455faf61396c0dbab12f,SBA3,Leverage Shares,2024-12-06,Equities (Stocks)
+218361a4b112472683d248df7c632be7,HPRA,HSBC,2024-12-11,Equities (Stocks)
+21842709502d42e29eaefcbe0915fc73,GOOS,Leverage Shares,2024-12-06,Equities (Stocks)
+2298e14d3298499aa668b22ba61d3157,SJPM,Leverage Shares,2024-12-06,Equities (Stocks)
+22dcc473c352458496e69faf061f7979,3PYP,Leverage Shares,2024-12-06,Equities (Stocks)
+2331b0bca1d34269979f9c4de8455f06,AAPI,Leverage Shares,2024-12-06,Equities (Stocks)
+23906cd0137744fd9fd4dd067f8e17ac,HUKX,HSBC,2024-12-11,Equities (Stocks)
+23a99901f93c425b9a833d8cf223ec87,3VT,Leverage Shares,2024-12-06,Equities (Stocks)
+24ecebe4f835477da86556a71c5720d5,3SBE,Leverage Shares,2024-12-06,Equities (Stocks)
+25b77fa43b754018aab57c4f5328f43c,SPRE,Leverage Shares,2024-12-06,Equities (Stocks)
+270bac1f4af74c57b653cf51e3957b78,JPM2,Leverage Shares,2024-12-06,Equities (Stocks)
+27403d479b0a4d3eb14b029c296c3891,3AMD,Leverage Shares,2024-12-06,Equities (Stocks)
+275331ae2beb4c2ba0fe2f92f9b53979,HIDR,HSBC,2024-12-11,Equities (Stocks)
+278e896b30834723bdc7f91d423ceeae,3SAA,Leverage Shares,2024-12-06,Equities (Stocks)
+27c876cce3ed410986fda63bba6f1c1e,3FBE,Leverage Shares,2024-12-06,Equities (Stocks)
+285b639b3d8f4e5883f66c5f8b3c06ce,VT3,Leverage Shares,2024-12-06,Equities (Stocks)
+28740cc915b74778a203e7a34e19150e,HIND,HSBC,2024-12-11,Equities (Stocks)
+28cd5bd9fe02416c87c630f28cb8a176,HSEU,HSBC,2024-12-11,Equities (Stocks)
+213df877798c4563b860c05a84457c0c,3SQ,Leverage Shares,2024-12-06,Equities (Stocks)
+2245f3c4b93343a3b7b90a23de97c847,GSGR,Goldman Sachs,2024-12-06,Bonds
+23962245c0fd4dc5bd5c906568f9738f,HSEU,HSBC,2024-12-11,Equities (Stocks)
+28d0b9d25f3d4308a1ae074b5a84e7d0,HPJP,HSBC,2024-12-11,Equities (Stocks)
+1f5a9dd067b241f89c087daa087080c1,MLPD,Invesco,2024-12-06,Other Asset Types
+1fb2e22d60494a7fa315ada72d7b34b2,HSPX,HSBC,2024-12-11,Equities (Stocks)
+200b1839635f4006ad6c17784e65d0d0,HSTE,HSBC,2024-12-11,Equities (Stocks)
+203d49b639d6446f90975638ec8ff706,HMWA,HSBC,2024-12-11,Equities (Stocks)
+218b9c56c7bc4328bf977d588ef2cff0,OG35,OSSIAM ETF,2024-12-10,Bonds
+2384050ce83c44fc952ca3b0537c3264,AXLM,21Shares,2024-11-27,Other Asset Types
+23ded1339c7d43e19570ace0fc17de86,HODLVGBP,21Shares,2024-11-27,Other Asset Types
+2423c81bcbd540699e7af5dd0b9e8321,POLYGBP,21Shares,2024-11-27,Other Asset Types
+246cd7b5f5304e1aa87dc1f4513b3beb,HPAU,HSBC,2024-12-11,Equities (Stocks)
+257667e5f5af43d29791a8d4744ef099,HIEM,HSBC,2024-12-11,Equities (Stocks)
+25b1578138a541328531a3a5c3190e85,ATOMCHF,21Shares,2024-11-27,Other Asset Types
+25da81cc288d45349dfa535f5eff04f8,X7PS,Invesco,2024-12-06,Equities (Stocks)
+269f292c81df4f79a753342efe7748be,POLY,21Shares,2024-11-27,Other Asset Types
+26a10364939f48e3b270da122bc777a3,AAVE,21Shares,2024-11-27,Other Asset Types
+278a80106b1d4a6abb2b46ab4f977cd4,LINK,21Shares,2024-11-27,Other Asset Types
+20423ead949f4a87bf02ac8fa70573c4,3CRM,Leverage Shares,2024-12-06,Equities (Stocks)
+20ee56b34bc5493d9c6afd7677328345,2NVD,Leverage Shares,2024-12-06,Equities (Stocks)
+2199cabdfdce4649b38b2142df293ad5,LIDO,21Shares,2024-11-27,Other Asset Types
+226902a3fa0f4c9caef3e76bfc2ddc7e,RNDR,21Shares,2024-11-27,Other Asset Types
+22faae3fcb114ddc8599d870ad4fb699,ATOM,21Shares,2024-11-27,Other Asset Types
+24885a6ad8a444baa5722e4ac81c7fd7,GSSS,Leverage Shares,2024-12-06,Equities (Stocks)
+253fcac90cd24230b1afe75ffd39f25a,TONN,21Shares,2024-11-27,Other Asset Types
+27345d42f66b46f8a7ff6bfcf027bfa1,APTOS,21Shares,2024-11-27,Other Asset Types
+233149247d244e9c8823a6f1aba9bedc,AETH,21Shares,2024-11-27,Other Asset Types
+201ef181e9b74d3d94788ab74348d719,ASTX,21Shares,2024-11-27,Other Asset Types
+226ffbceae6e49cb9c9c4164dbfee65d,AVAX,21Shares,2024-11-27,Other Asset Types
+2cf0a30262594bce873448b46ac70af2,2UNI,21Shares,2024-11-27,Other Asset Types
+2cfa70c26493495f93c5f2de7ba3a0b0,PLTS,Leverage Shares,2024-12-06,Equities (Stocks)
+2d3187961b5449b79c9590c944d4318e,AMU3,Leverage Shares,2024-12-06,Equities (Stocks)
+2d59d9801b604cf7bb84a2865b2ec42e,XAAG,Invesco,2024-12-06,Commodities & Metals
+2d8973ea47284d7b8dcd8228cb858152,3TSA,Leverage Shares,2024-12-06,Equities (Stocks)
+2f51b8284784445cb96a60384782e001,SUBR,Leverage Shares,2024-12-06,Equities (Stocks)
+3081ea376ac24cb19edb7cd0e2ee9a60,OG35,OSSIAM ETF,2024-12-10,Bonds
+321625b906e243a5b7ed0a33f8794602,PLT3,Leverage Shares,2024-12-06,Equities (Stocks)
+3256ee0119e04ade962184fc6d23825c,1NDA,Leverage Shares,2024-12-06,Equities (Stocks)
+28f5306ebb554ff8805b4c68d0da110f,HUKD,HSBC,2024-12-11,Equities (Stocks)
+2965a1fb569b4942a3d38edcd11a470f,CHI3,Leverage Shares,2024-12-06,Equities (Stocks)
+29b9092eb8fc452eaa3ae20cf72962f4,TI5S,Leverage Shares,2024-12-06,Bonds
+2a376e1eb68d4483b94c66f5a59f5033,SAKE,Leverage Shares,2024-12-06,Equities (Stocks)
+2b0c2557c4a84451a1bca4d6ef671007,5STI,Leverage Shares,2024-12-06,Bonds
+2bd356b53f564d90a751fda562b2461d,UCAP,OSSIAM ETF,2024-12-11,Equities (Stocks)
+2c696a6faeed48dba746f0df318433b2,ETHC,21Shares,2024-11-27,Other Asset Types
+2e7a96b759ce45ffbb5520fb9a097a4e,2OIL,Leverage Shares,2024-12-06,Commodities & Metals
+2ec07d72cde34108a249f83643344f95,XLYP,Invesco,2024-12-06,Equities (Stocks)
+2ed4eb32c2bd45628ae2d89521f5047f,HPEF,HSBC,2024-12-11,Equities (Stocks)
+2f48486e80d54539b53fbe43669f7acf,3MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+2fa49a85ad504b068a0b578fa6eb4f65,GOOO,Leverage Shares,2024-12-06,Equities (Stocks)
+2fb6f40a1ca742f5a7d0ccec2d00bfb6,HMJD,HSBC,2024-12-11,Equities (Stocks)
+2ffba8439f6b41e49d1c9e700b598a9d,SSLE,Leverage Shares,2024-12-06,Commodities & Metals
+30ed69b279ef436d85971d74c1bee597,SPYP,Leverage Shares,2024-12-06,Equities (Stocks)
+30f27c87bd7448f48cf998a13fce95cd,HIUS,HSBC,2024-12-11,Equities (Stocks)
+310dd2acd66c4609893eaa81c5fbb90d,TS3E,Leverage Shares,2024-12-06,Equities (Stocks)
+32a019d074c1418b94ace7de49e5f001,HWVS,HSBC,2024-12-11,Equities (Stocks)
+3362827188fd40c795d7ccc94894797a,HLAL,Leverage Shares,2024-12-06,Equities (Stocks)
+2aa77cd194ca40029c6cc3de79b2b396,CMOC,Invesco,2024-12-06,Commodities & Metals
+2b49eb857ffd4c70b731fe6dabc59fc1,3AMD,Leverage Shares,2024-12-06,Equities (Stocks)
+2f78fb996d1a4112953b9babbf86b55e,HNCT,HSBC,2024-12-11,Equities (Stocks)
+2ff80d5174ca4240938a6cb9fd527398,HPAE,HSBC,2024-12-11,Equities (Stocks)
+3324b081d90f4d8aa77770dff6052a00,MAG7,Leverage Shares,2024-12-06,Equities (Stocks)
+29c71a7ca8fc47febc7a2d8b51b33aa2,TONN,21Shares,2024-11-27,Other Asset Types
+2e5347b4357c434b8301b494b86245d8,GSLC,Goldman Sachs,2024-12-02,Equities (Stocks)
+2eb6fa577d884497b6ae6f554e7d511d,HODLV,21Shares,2024-11-27,Other Asset Types
+3095602053f1434e8781665085679930,ABBA,21Shares,2024-11-27,Other Asset Types
+338b8e01353c4832bfe369a76cc675ab,HPJP,HSBC,2024-12-11,Equities (Stocks)
+2c235da5282648ab99a637b87a214990,3NVD,Leverage Shares,2024-12-06,Equities (Stocks)
+306c382e96614c829ec3485d6b918e62,BOLD,21Shares,2024-11-27,Target Date / Multi-Asset
+31f3dd5d00b644d5bf175667403102a6,2BRK,Leverage Shares,2024-12-06,Equities (Stocks)
+33225c6fb219487c86f07e4423aabe27,ASOL,21Shares,2024-11-27,Other Asset Types
+33dc30364f9c4f6d9ee73086ba84e52f,ETHA,21Shares,2024-11-27,Other Asset Types
+37a4b5b5ef5f4b2c83982c4adf5ad68f,CMOC,Invesco,2024-12-06,Commodities & Metals
+39ac3a264a4f4622aa321f272954e684,HPAU,HSBC,2024-12-11,Equities (Stocks)
+3a227cc3c4604f378055fc1380c75c4e,5SIE,Leverage Shares,2024-12-06,Bonds
+3aa4ac6b997d4bc7b2e5f3799160964a,MSSE,Leverage Shares,2024-12-06,Equities (Stocks)
+3b28c3845b6e43c1978e132d2b0c666b,S3CH,Leverage Shares,2024-12-06,Equities (Stocks)
+3b42dd2ba2414305b4c47cabc5d7981b,ASOL,21Shares,2024-11-27,Other Asset Types
+3cabcaf882ea4bdc9d62bd3885d58093,SVLT,Leverage Shares,2024-12-06,Equities (Stocks)
+3457f03d1bea441e93c3c33e4817975c,5TLT,Leverage Shares,2024-12-06,Bonds
+35ab33c63c1c40b4aa4a848607390b1c,TIB5,Leverage Shares,2024-12-06,Bonds
+3601bb931b0c48a68cc128ba643637f6,UBS3,Leverage Shares,2024-12-06,Equities (Stocks)
+362058db3320478f9be289409de2134d,MSTS,Leverage Shares,2024-12-06,Equities (Stocks)
+3722dd924d2644cba539e5f95e4deb52,AMDS,Leverage Shares,2024-12-06,Equities (Stocks)
+373c553d7d7143928a86f63b7beb5c93,ARKS,Leverage Shares,2024-12-06,Equities (Stocks)
+374f0ef91a4e454bbdda88cc6f7fd805,UBRS,Leverage Shares,2024-12-06,Equities (Stocks)
+3750295b46a44029b928f4f30247ebac,SPYO,Leverage Shares,2024-12-06,Equities (Stocks)
+375767d8b60a406798ceded85022d32a,METY,Leverage Shares,2024-12-06,Equities (Stocks)
+37f28e94388f492b8ab095b479236c67,UBR3,Leverage Shares,2024-12-06,Equities (Stocks)
+3811c7dfa85a4ddc872c29a4361737a2,GSSS,Leverage Shares,2024-12-06,Equities (Stocks)
+38263af47f2f4c37a03957dd5289a99d,LCPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+383b2b54f4314337a4d974d5a72e7933,ABTC,21Shares,2024-11-27,Other Asset Types
+386c4b85e0174bf5b5de545b53a5be9f,QQ3S,Leverage Shares,2024-12-06,Equities (Stocks)
+38f0efc6838448b9b177cc7ffde657de,LEMV,OSSIAM ETF,2024-12-11,Equities (Stocks)
+3912a6a6bef442d984d07c0ca2233789,EQQD,Invesco,2024-12-06,Equities (Stocks)
+3aca520c9e594e4ca72c27d5b1a1879b,HMJP,HSBC,2024-12-11,Equities (Stocks)
+3afe05c971e848a4a6ee7577d2d57d98,HSWD,HSBC,2024-12-11,Equities (Stocks)
+3be598eff8634fd7ae5df775307a6c9a,1COI,Leverage Shares,2024-12-06,Equities (Stocks)
+3c356f8473484be9b021afd7b491eb7e,ARKA,Leverage Shares,2024-12-06,Equities (Stocks)
+3c5e7626492948328ab579781220b978,HIDD,HSBC,2024-12-11,Equities (Stocks)
+3cb75d86f55642378f5e5d2d363e06b6,CBND,Goldman Sachs,2024-12-06,Bonds
+3ce406365fa14ae8ad777da65792b8c0,HMXD,HSBC,2024-12-11,Equities (Stocks)
+3d016c9f9ffc4ce78eec47540c5a1d93,HEMA,HSBC,2024-12-11,Equities (Stocks)
+3401a0a7e7244954a56aa0d0b12a6693,3MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+3473f0c387bc4cb7bd467cd757a0423e,XLUS,Invesco,2024-12-06,Equities (Stocks)
+3576f1c7eaee4053b369b0c19d994381,H50E,HSBC,2024-12-11,Equities (Stocks)
+36fdcdf0c48d4279baf515733ec4acdc,SOXS,Leverage Shares,2024-12-06,Equities (Stocks)
+397d7eb2b5d9465dae198b869e753935,EUMV,OSSIAM ETF,2024-12-11,Equities (Stocks)
+3c57cff87e5f4c71bbddad178ceaef90,HSJD,HSBC,2024-12-11,Equities (Stocks)
+338f91b7230345a5926957f65159239b,OP5H,OSSIAM ETF,2024-12-10,Equities (Stocks)
+33fecc1ad79748579da1876283a8036c,ADOTCHF,21Shares,2024-11-27,Other Asset Types
+363ff30046304024ae6e9026fe9c6dc1,HSPC,HSBC,2024-12-11,Equities (Stocks)
+394f8616df8d4287bac0d97e5d3367db,AETHGBP,21Shares,2024-11-27,Other Asset Types
+3b0264a4e668475ab54bb7e45d4a6222,AXRPCHF,21Shares,2024-11-27,Other Asset Types
+3b9fb3af35c84578919ed868fdcdfb86,HMCH,HSBC,2024-12-11,Equities (Stocks)
+3ba4fef6baed4e7c8bf434fce2a1ffb4,HPRC,HSBC,2024-12-11,Equities (Stocks)
+37faaef8cda84778b9c08fd1e4eb069e,3BAB,Leverage Shares,2024-12-06,Equities (Stocks)
+38d037049e094eee906e79e6517dfae1,MANA,21Shares,2024-11-27,Other Asset Types
+39539d6152f74633bac653f51fbc74d0,SNVD,Leverage Shares,2024-12-06,Equities (Stocks)
+396c502ee58c4ffea25b14bf4206b05f,1ARKG,Leverage Shares,2024-12-06,Equities (Stocks)
+3b8a971052b447709a06392add0d2a88,SUBR,Leverage Shares,2024-12-06,Equities (Stocks)
+3773fdfb2971458c9cbca5ec1ce3b524,SBTC,21Shares,2024-11-27,Other Asset Types
+3b04f7d6585e4ebdaad841f62649fa56,OP7E,OSSIAM ETF,2024-12-11,Equities (Stocks)
+3b5bdcee3e72492d95028203bd432286,HIES,HSBC,2024-12-11,Equities (Stocks)
+3b5c7be914854b18ba8481c01d1304af,HWVS,HSBC,2024-12-11,Equities (Stocks)
+3ea9550d5a0241808a2e1d8d78251e18,XOM3,Leverage Shares,2024-12-06,Equities (Stocks)
+3f1b958d53a149fd9cb91ed058ca9f0b,ESNB,Expat Capital,2024-11-29,Equities (Stocks)
+3ff1a49e334249babcc6834cbe986f00,MST3,Leverage Shares,2024-12-06,Equities (Stocks)
+418dac3e916346feb9f9eefd6736132e,SC04,Invesco,2024-12-06,Equities (Stocks)
+4330b5547a0c4b82be94983f31d8ee5b,21HX,21Shares,2024-11-27,Other Asset Types
+4367a2b4339c4478bc306c2890ac370b,5STL,Leverage Shares,2024-12-06,Bonds
+4419c5ca4e4e4d3c83d2f2187efcc55e,D6RQ,Deka ETF,2024-11-29,Equities (Stocks)
+46f20e93e1bd4a37b75b846618181b44,EL4I,Deka ETF,2024-11-29,Equities (Stocks)
+3d517c609d154b6ba787842e4dfc36de,MAG5,Leverage Shares,2024-12-06,Equities (Stocks)
+3e007f9848804a748cb74f9893c558ca,SMCI,Leverage Shares,2024-12-06,Equities (Stocks)
+3e6d33e5ba904dcb9db9850d40094de8,FB3,Leverage Shares,2024-12-06,Equities (Stocks)
+3e8d14f563c74193892fadfcdf5ce9f3,UB3S,Leverage Shares,2024-12-06,Equities (Stocks)
+3eb57e3d141b4a0ba74507e08afd8895,SGLE,Leverage Shares,2024-12-06,Commodities & Metals
+3f3fb41b107e4dcdbfa232046f4eaa10,TL5S,Leverage Shares,2024-12-06,Bonds
+3f4906e74f954b4a9db450b9eeadb3b6,TAI3,Leverage Shares,2024-12-06,Equities (Stocks)
+3fcca7353fcd43a2825370ad62677458,DIS3,Leverage Shares,2024-12-06,Equities (Stocks)
+3fe2ec0b7f8848bc96b91d1974d9e420,SJPE,Leverage Shares,2024-12-06,Equities (Stocks)
+403ade146cd5424ea5c2e19b256f191a,EUMV,OSSIAM ETF,2024-12-11,Equities (Stocks)
+404c23e3d55e4add88b4a84ae799ba06,BA3,Leverage Shares,2024-12-06,Equities (Stocks)
+40ce4f6d873f43199c43482921d1f558,HSPA,HSBC,2024-12-11,Equities (Stocks)
+40ff5a1c14214d58b0c4c52d71b24498,HSMD,HSBC,2024-12-11,Equities (Stocks)
+417715a920414b03beaa039f49c3ce36,HIEU,HSBC,2024-12-11,Equities (Stocks)
+4227a304ee194518b7be2b3ef151709c,HIWO,HSBC,2024-12-11,Equities (Stocks)
+425278e45fde48b1924f176d10ca6580,NVDE,Leverage Shares,2024-12-06,Equities (Stocks)
+43311c37c1ec47d0910a7ec9c21f5c5d,GDMS,Leverage Shares,2024-12-06,Equities (Stocks)
+436d9417fce74a2091cf4b39cba11526,XLBP,Invesco,2024-12-06,Equities (Stocks)
+4432b55d2abf49a7934b83e2cda9710f,GSLC,Goldman Sachs,2024-12-02,Equities (Stocks)
+448ca052754d4dbf9c1bbbfbc9a096b2,GOLB,Market Access,2024-12-06,Equities (Stocks)
+44ceaaed535544789afc3f140645999d,3BA,Leverage Shares,2024-12-06,Equities (Stocks)
+4594e52e396b42b795232f830773fa7a,JPMS,Leverage Shares,2024-12-06,Equities (Stocks)
+45a2399db00f4b5081cdaa2ea7adf119,1BRN,Leverage Shares,2024-12-06,Commodities & Metals
+45a63d439e0342988ad8bd1fe37b379d,3XEE,Leverage Shares,2024-12-06,Equities (Stocks)
+45e60bb2d8c048d0b2ba22e8871dfa0a,GOOE,Leverage Shares,2024-12-06,Equities (Stocks)
+45f0b16683954756bdb9d91f178fa885,HMWO,HSBC,2024-12-11,Equities (Stocks)
+46433a6dae8d440dbe56625be0818aac,TSLI,Leverage Shares,2024-12-06,Equities (Stocks)
+476ea5566ba44a5084a43b892928997a,AMZD,Leverage Shares,2024-12-06,Equities (Stocks)
+478184b14bc3417aa9842300e31113e4,TSLS,Leverage Shares,2024-12-06,Equities (Stocks)
+3ed3f142a5be421d8d171afca690ef47,XRES,Invesco,2024-12-06,Equities (Stocks)
+3fb5d47660ad44469d3fc5ca3fd458a0,N400,Invesco,2024-12-06,Equities (Stocks)
+43f78e85c3284059b90c9ae0116edc28,3PYP,Leverage Shares,2024-12-06,Equities (Stocks)
+46057ea775cb47c6b75c7f6760ea6009,XLCS,Invesco,2024-12-06,Equities (Stocks)
+3e0d84972d1444d39e3b63b142ab9a8e,EQQD,Invesco,2024-12-06,Equities (Stocks)
+414c9af6370649f0a001e441aa407680,HMUS,HSBC,2024-12-11,Equities (Stocks)
+41a75f9d138343a887dfe116c356a333,XLIS,Invesco,2024-12-06,Equities (Stocks)
+421d479621f94e82bf026d92ee30eaae,HMJPJPY,HSBC,2024-12-11,Equities (Stocks)
+4256cd10b5f844d09a47876fc6f9e301,BOLDEUR,21Shares,2024-11-27,Target Date / Multi-Asset
+4342099450f54f0eab9c14266711be1e,MANA,21Shares,2024-11-27,Other Asset Types
+4591015994f34fa7ac911a509dcefb85,CAPH,OSSIAM ETF,2024-12-11,Equities (Stocks)
+46bd4fbc69b54aeda9f24dc59512c496,OP4E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+3f7f9eef872f4bc9ad60d5a10a29368b,NEAR,21Shares,2024-11-27,Other Asset Types
+44a2ff47a7f74f7498bb5ae6b1205bd1,3KWE,Leverage Shares,2024-12-06,Equities (Stocks)
+45d1e3bc62fb4fc385901ed29810cdeb,3AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+43811193ca2f4fdc9ba467604c1859dd,MJP,HSBC,2024-12-11,Equities (Stocks)
+444fa6a4079b415dbfcd8d0576f39f72,HMJS,HSBC,2024-12-11,Equities (Stocks)
+40190041d3a444e0815dfc94ed04a259,ROX,Expat Capital,2024-11-29,Equities (Stocks)
+494518f7065240b7ade10620ee33a411,USTP,OSSIAM ETF,2024-12-11,Bonds
+4989511268884eafa64a66b059d4fa4a,SMF3,Leverage Shares,2024-12-06,Equities (Stocks)
+4a3cb5cb293c4e91bf0673a651efd6c7,LAAA,Fair Oaks,2024-12-10,Bonds
+4c291ab8666044228c49853cb2c7b228,6PSE,Invesco,2024-12-06,Equities (Stocks)
+4c6ca34cc45f411498459a2b70847fe1,OP7H,OSSIAM ETF,2024-12-11,Equities (Stocks)
+4fa27a3d76af46e0b91f3ba9d41376b1,H4ZN,HSBC,2024-12-11,Equities (Stocks)
+503435a462a54d22acd3f88859c3767e,SC0Q,Invesco,2024-12-06,Equities (Stocks)
+509209f87ff84495bf8c6259fa57e5ae,SJAP,Leverage Shares,2024-12-06,Equities (Stocks)
+519b86624b2f4baaa2055443eda49cb1,SMLN,Invesco,2024-12-06,Equities (Stocks)
+47cd6c41956640c594d580be2abc424a,QQL3,Leverage Shares,2024-12-06,Equities (Stocks)
+47f05377b30f4901ba56a284b5860d44,3NFL,Leverage Shares,2024-12-06,Equities (Stocks)
+48a6e55a308d4cf4aa3e3a4ff5932cef,3CON,Leverage Shares,2024-12-06,Equities (Stocks)
+4910bfd87e364152814d1b7a690b7b0d,HIPS,HSBC,2024-12-11,Equities (Stocks)
+49110248dda24dab89b575aceba613ba,STSL,Leverage Shares,2024-12-06,Equities (Stocks)
+4a02c22ae8c64adcbd789cf66e363fcf,NVDI,Leverage Shares,2024-12-06,Equities (Stocks)
+4a4a3a500dc14244acfddf6894336d98,HSWO,HSBC,2024-12-11,Equities (Stocks)
+4ad5d3773d8c451d9f84d9d5f2cebedb,CBGB,Goldman Sachs,2024-12-06,Bonds
+4bf5e25cd25d46c585d3120c7df7f780,5OGU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+4c3d58cae2d54797b0189a731bd44f1e,HMXS,HSBC,2024-12-11,Equities (Stocks)
+4c8bb7ebfedd47539780f88f022b78aa,HFEX,HSBC,2024-12-11,Equities (Stocks)
+4c9bb9481cc44c01bf8a1083f33a42dc,HEMV,HSBC,2024-12-11,Equities (Stocks)
+4e068f1556f646b784c39f32efa0d3b3,MSFI,Leverage Shares,2024-12-06,Equities (Stocks)
+4e6ea8a5905640bfa56931f4f0aa9a3f,HSXD,HSBC,2024-12-11,Equities (Stocks)
+4ebc590ab2994138ae9d6a2a223154a4,1NGL,Leverage Shares,2024-12-06,Commodities & Metals
+4f40d27d78664eab9fd6f461036cad98,XLES,Invesco,2024-12-06,Equities (Stocks)
+4f4649206b884be4bf2f048091f3edc2,TSL1,Leverage Shares,2024-12-06,Equities (Stocks)
+4fd91792786a47da9c2019b5e554bfa5,XLPS,Invesco,2024-12-06,Equities (Stocks)
+50b4f63ae30b4503b7697ca1cd75fb42,SKOR,Leverage Shares,2024-12-06,Equities (Stocks)
+517e80aa7dbd4c97880fd9972a2175e3,BID3,Leverage Shares,2024-12-06,Equities (Stocks)
+51a41fd876bb491583071dc73fc37a81,XLYS,Invesco,2024-12-06,Equities (Stocks)
+51b36a51a4874d13bd54d856631ca282,L6EW,OSSIAM ETF,2024-12-10,Equities (Stocks)
+522f6d70de924e338a7e364367712e5c,ARM3,Leverage Shares,2024-12-06,Equities (Stocks)
+48151fd63f6e4ea08b492eba85f92041,HKOR,HSBC,2024-12-11,Equities (Stocks)
+483723c5d3014213b553a7fa5f1510ca,SMST,Leverage Shares,2024-12-06,Equities (Stocks)
+4c15e1e93e1343c3bc31d963aa61420d,CAPU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+4c981612c3624feebd0ac02063968ba7,3NVD,Leverage Shares,2024-12-06,Equities (Stocks)
+4eaebc26631b469a9a7f54ea94f47ea9,CAPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+4fa9ca9daf1646ea905736ac6dc7d75e,HSUD,HSBC,2024-12-11,Equities (Stocks)
+50227be295d041c09b81df0bff8de684,MLPS,Invesco,2024-12-06,Other Asset Types
+5253be88a50f4398b5baf0897bbb0419,BRENT,Leverage Shares,2024-12-06,Commodities & Metals
+5265cb69fd0f4c7fbcc782da5f7025cc,3GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+51acee0294914990b94e0a9debd95fd5,MAGB,Market Access,2024-12-06,Equities (Stocks)
+47ce56370a9941c7876411af47767929,1ARKK,Leverage Shares,2024-12-06,Equities (Stocks)
+4845fadccdb64aa3973c566f491f7b03,HODL,21Shares,2024-11-27,Other Asset Types
+4866eb8f96854e21b7e44bdb569ffa6d,AUNI,21Shares,2024-11-27,Other Asset Types
+4b91c536e72343c6b225d55e021df8fd,ASAND,21Shares,2024-11-27,Other Asset Types
+4df53656b1b84d0682518ea0f8d858f6,ASUI,21Shares,2024-11-27,Other Asset Types
+5274fdac84e34f9ea1611e1cc949d265,ETHC,21Shares,2024-11-27,Other Asset Types
+5065027cc6d04903b230345bc28620a3,HSEM,HSBC,2024-12-11,Equities (Stocks)
+52b81518a4ed47d1bc18098d76968f33,3AKI,Leverage Shares,2024-12-06,Equities (Stocks)
+536c9d46177247dfbc4327348f6ea0ad,ETHC,21Shares,2024-11-27,Other Asset Types
+553b669e4d5a4777bde98839a2531cb2,H410,HSBC,2024-12-11,Equities (Stocks)
+55b4eb91baec431193f2e5863f77fd96,SC0X,Invesco,2024-12-06,Equities (Stocks)
+55d44ef4cd1846f7aa75b9d661b07bc2,3URE,Leverage Shares,2024-12-06,Equities (Stocks)
+577bde0b05ad4ae0b16ddac4f9d2ace4,SC0J,Invesco,2024-12-06,Equities (Stocks)
+58bed43b657c4608a2af0e76267db47c,3COI,Leverage Shares,2024-12-06,Equities (Stocks)
+59768cec61dc48ecb98e4a6bd0411fd6,HJAP,HSBC,2024-12-11,Equities (Stocks)
+5a2569ef35904dc9b2f30fd8d156a993,SC0U,Invesco,2024-12-06,Equities (Stocks)
+5c2c7dddea1b420ab404c126844f33ca,SMLD,Invesco,2024-12-06,Other Asset Types
+5d0682e503e141ccacdf4f08e4773d28,OP4E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+5322e8f308db410391a8f40141ab0f7f,HMJA,HSBC,2024-12-11,Equities (Stocks)
+545f595ba47e4e9f9dcbcac2514ba817,MKUW,Invesco,2024-12-06,Equities (Stocks)
+54e692f4ff334c03b87a26b1bf4fbab3,3DIE,Leverage Shares,2024-12-06,Equities (Stocks)
+552fa9b81d1d4d4781deee9f255cf47c,5TIP,Leverage Shares,2024-12-06,Bonds
+5551145306fb42c1866239163e51bd9a,MSFE,Leverage Shares,2024-12-06,Equities (Stocks)
+556d902ca27740ad81d78d3cb3d9abfb,SAPE,Leverage Shares,2024-12-06,Equities (Stocks)
+559ae815331546fc9563a26a82ab8164,GSBG,Goldman Sachs,2024-12-06,Bonds
+55f8b3be4ff1486e9a290402be780ec9,STAI,Leverage Shares,2024-12-06,Equities (Stocks)
+5685adf0e121461b936d84e63392ba82,XLIS,Invesco,2024-12-06,Equities (Stocks)
+56f9e53c384a4bf6b5f73a09cf5a7e31,3MBE,Leverage Shares,2024-12-06,Equities (Stocks)
+571eb9195eb04d068f9e1ecbfd0beff0,SSPE,Leverage Shares,2024-12-06,Equities (Stocks)
+57aa3c4ce78a4d5dadf3ee369bcbe2e9,DAXS,Leverage Shares,2024-12-06,Equities (Stocks)
+57d9822efcd24d2b88d397c5a7e00b53,MLPP,Invesco,2024-12-06,Other Asset Types
+5805610a6581495aa6e69e3e1e59e633,SBIO,Invesco,2024-12-06,Equities (Stocks)
+58aa7be200bf4944ae072a404f7f6c65,CHNS,Leverage Shares,2024-12-06,Equities (Stocks)
+58db1305ebaf43ea921e59e57a4175b4,SGOL,Leverage Shares,2024-12-06,Commodities & Metals
+59742035b7964dcdbb5260cb133ddfff,HESS,HSBC,2024-12-11,Equities (Stocks)
+59b596acb8a54789ac086625b908574e,1MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+59c8395ea0524748827bdbd59e5f0fd9,NVDD,Leverage Shares,2024-12-06,Equities (Stocks)
+5ab86f6f5aef432c9e12a607f13f9f0e,SOXL,Leverage Shares,2024-12-06,Equities (Stocks)
+5ae318645ab34589b8dc741b7554845d,COIY,Leverage Shares,2024-12-06,Equities (Stocks)
+5b3d9a93ad7a4be39731d8e8d51a1721,C500,Invesco,2024-12-06,Equities (Stocks)
+5b6f06b31ba1451987afe504da7c3de3,STAE,Leverage Shares,2024-12-06,Equities (Stocks)
+5c1b9287b83b4d57af8aaf53296f78f6,GSGR,Goldman Sachs,2024-12-06,Bonds
+5cd221a2ddeb4c77b4ec4232afc42ca7,HCAN,HSBC,2024-12-11,Equities (Stocks)
+5d17794ee290468895aa67c82b14318f,HNSS,HSBC,2024-12-11,Equities (Stocks)
+5d36aab5d891406aa76ea5b3762718a5,3XLE,Leverage Shares,2024-12-06,Equities (Stocks)
+555256389efa47c1b098ae4e0ae2a5df,XLKS,Invesco,2024-12-06,Equities (Stocks)
+57a22885e5484ebca8c08597ee51d06e,SDJE50,Invesco,2024-12-06,Equities (Stocks)
+57d7f26b3a3b4a5aae2557903d69e8c9,GPT3,Leverage Shares,2024-12-06,Equities (Stocks)
+58e808168118478b99782448c83f1f6a,CPER,Leverage Shares,2024-12-06,Commodities & Metals
+5ac84693643d48eaac06ae33e32cb019,WTI,Leverage Shares,2024-12-06,Commodities & Metals
+55871656e2bf44baaf2da043d25c5fc5,XLCS,Invesco,2024-12-06,Equities (Stocks)
+558788e40af24bdab1ffee9519d63864,ALGO,21Shares,2024-11-27,Other Asset Types
+5716dfefcd0043f9bfa3017fc65585d7,HIDR,HSBC,2024-12-11,Equities (Stocks)
+57f5668bdbfc429bacf45daf652953b4,ABTC,21Shares,2024-11-27,Other Asset Types
+5803338439f547db9beed681769a00ef,HMJP,HSBC,2024-12-11,Equities (Stocks)
+58d2380823a14ca183dfc50964971374,XLFS,Invesco,2024-12-06,Equities (Stocks)
+5a6f0e8208fc41d29137a985b8a2b28c,CAPU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+5b2c7d698fcc4af48566a12d0747cc7f,HESC,HSBC,2024-12-11,Equities (Stocks)
+5c1d37c7e72d438b897de7e2998ae315,HODLEUR,21Shares,2024-11-27,Other Asset Types
+5c28356ff920400da72f4fdcbb6504fa,OP7H,OSSIAM ETF,2024-12-11,Equities (Stocks)
+5c455abd0268417d9a0eed1ac6b7fff8,HCANCAD,HSBC,2024-12-11,Equities (Stocks)
+5d1d62e2b6e746ffa10e1e26ef316c60,POLYCHF,21Shares,2024-11-27,Other Asset Types
+5d360f457ed749dcbda441ed40352007,5PXE,Invesco,2024-12-06,Equities (Stocks)
+53cb8386515846f0a076185572d93dfa,3PLT,Leverage Shares,2024-12-06,Equities (Stocks)
+56b88bb0edcd4aab8d852833031b59a4,SBTC,21Shares,2024-11-27,Other Asset Types
+56e7aaed0c5b4a559f5d3ee1415487bc,5QQQ,Leverage Shares,2024-12-06,Equities (Stocks)
+57d6198f49fe4f199f46bd55efdf4cd6,2FB,Leverage Shares,2024-12-06,Equities (Stocks)
+554f48c8f1b2492294412152690630a9,AUNI,21Shares,2024-11-27,Other Asset Types
+57d9b56ac49d4bc3948f39db6e4cd759,AMKR,21Shares,2024-11-27,Other Asset Types
+586568646f454ad186a57dbb7d8cb40e,AADA,21Shares,2024-11-27,Other Asset Types
+5d7eb7a2922e4fd19905e4156576db40,HPAE,HSBC,2024-12-11,Equities (Stocks)
+5e829009339641879eb642521dc1d741,2SBT,21Shares,2024-11-27,Other Asset Types
+5e861bee85004ebe9ecd0900314dca49,OP7E,OSSIAM ETF,2024-12-11,Equities (Stocks)
+5f567ff6dd8a4287a75058d9af3a8330,MBZ3,Leverage Shares,2024-12-06,Equities (Stocks)
+600401297147455fbfbb0dbbfac3b950,SC0Z,Invesco,2024-12-06,Equities (Stocks)
+60bb0827e83141f2a9213678bf1451f2,SC06,Invesco,2024-12-06,Equities (Stocks)
+61a8000fa1ba4d438187afeaa0378eae,H4ZT,HSBC,2024-12-11,Equities (Stocks)
+62c6274c360a4a55a5575ca18cb4fffd,3XFE,Leverage Shares,2024-12-06,Equities (Stocks)
+636617dd3bfd4890b22c9199de4e6cff,TIP5,Leverage Shares,2024-12-06,Bonds
+63c2649206e841f6957ea1a2fc2443a8,HGGA,HSBC,2024-12-11,Bonds
+642f5cb4aae8440fb1de96c4ca14bcf8,21XH,21Shares,2024-11-27,Other Asset Types
+5e0dda2dc85c4fefabb9bcdeeeafaffa,APLS,Leverage Shares,2024-12-06,Equities (Stocks)
+5ea4ad63628843199d302382f3a8f635,SAPL,Leverage Shares,2024-12-06,Equities (Stocks)
+5ea8c5c596a14bda83b0243b8359adda,5IEF,Leverage Shares,2024-12-06,Bonds
+5f05647395084e29bf868b1b3cc3295b,IEF5,Leverage Shares,2024-12-06,Bonds
+5f17941b80164e369d278e2538104c42,SJAP,Leverage Shares,2024-12-06,Equities (Stocks)
+5f660e78d4574c99af6367f94ba4ee1d,HMXA,HSBC,2024-12-11,Equities (Stocks)
+5fe61499861648399c766cd3d05e230f,HSJS,HSBC,2024-12-11,Equities (Stocks)
+614422b8e96c4ee582afe2cae8aea89c,JPN3,Leverage Shares,2024-12-06,Equities (Stocks)
+61725958331f470c8d5c803bc4507c53,HPJS,HSBC,2024-12-11,Equities (Stocks)
+6219e86b31ff40cf91a0fc7ead4bee90,3BID,Leverage Shares,2024-12-06,Equities (Stocks)
+625bacb2aaa54c028d4b2e408fc6975a,SJD,Leverage Shares,2024-12-06,Equities (Stocks)
+62f5e7135ddd4c1bb33a0a66dff6c270,1AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+63349bb767274130a908930977550f58,AIS3,Leverage Shares,2024-12-06,Equities (Stocks)
+6369fd6cbd404b8892a425b75bf5ba2f,GOO1,Leverage Shares,2024-12-06,Equities (Stocks)
+63e01da776684402ba00b39ee730ffc3,HIES,HSBC,2024-12-11,Equities (Stocks)
+64806ae8f8a845fc8583034e003810ef,2STS,Leverage Shares,2024-12-06,Equities (Stocks)
+64a46adc16f042b3ac15fa217969402b,HPAX,HSBC,2024-12-11,Equities (Stocks)
+64ad8873ba6642e19b20069226b801aa,3SSL,Leverage Shares,2024-12-06,Commodities & Metals
+651bc011d30e4daa8f5bd4cbd5e5d08b,HNCS,HSBC,2024-12-11,Equities (Stocks)
+65298792c890401b92678fd4f1eaf70c,S3CO,Leverage Shares,2024-12-06,Equities (Stocks)
+6557e9f43b1841fc994db8fef2cf16d2,MXUD,Invesco,2024-12-06,Equities (Stocks)
+65645a5745c84ec7923a20b6c62e31c4,HMEM,HSBC,2024-12-11,Equities (Stocks)
+656b11469dfc4b81ad92b9031c665992,SJPN,Leverage Shares,2024-12-06,Equities (Stocks)
+65959f1161924db3b03ce295aa136cfd,3NIO,Leverage Shares,2024-12-06,Equities (Stocks)
+65a87a38b6bf4659aa9cbefd7db3c343,3SLV,Leverage Shares,2024-12-06,Commodities & Metals
+65b40e4e806a450ca34e29b98f506813,3CHE,Leverage Shares,2024-12-06,Equities (Stocks)
+66673c92f9004b46be33ebc6b8747316,1TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+66c1ee41f21c46e48f2b3aa1c1488dd1,3SUS,Leverage Shares,2024-12-06,Equities (Stocks)
+66d359e8e3e948c3a8e633a8a4d1b7fc,GS2,Leverage Shares,2024-12-06,Equities (Stocks)
+673231f702764042802bda9aad9b4b30,3QQE,Leverage Shares,2024-12-06,Equities (Stocks)
+625f468af0b34cd7973005d5bf66b85e,HMXJ,HSBC,2024-12-11,Equities (Stocks)
+62b1daeca6354f69a8a6d45688fed668,SNV3,Leverage Shares,2024-12-06,Equities (Stocks)
+65396e26af7d4e94a6b471c258ac2ffb,SBIO,Invesco,2024-12-06,Equities (Stocks)
+5daebdcb9dc645a59417d03f6b376d5e,ETHC,21Shares,2024-11-27,Other Asset Types
+5dc00968864b428ab52c68f062593b63,SPXD,Invesco,2024-12-06,Equities (Stocks)
+5dfff0e8f2794c6f976e3259068d5cc7,ALTSCHF,21Shares,2024-11-27,Other Asset Types
+5e6c6359e3284c4498e8795e9b752ff2,ASTX,21Shares,2024-11-27,Other Asset Types
+5f335f173b8b475386b0c8cfaedcb77b,EQQS,Invesco,2024-12-06,Equities (Stocks)
+62249d20862c4c78b957c1568f234594,HMCT,HSBC,2024-12-11,Equities (Stocks)
+668e3e72aead4f549bacbe81226636f4,MXUS,Invesco,2024-12-06,Equities (Stocks)
+5f518f6b27d44b69a48b317ffb39b07b,SBIO,Invesco,2024-12-06,Equities (Stocks)
+61fa581c806b4a978930509500d24932,COIB,Leverage Shares,2024-12-06,Equities (Stocks)
+62c84da6484d489ba6938238d5363961,2TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+659e3e7702374ecfb00c45241c2ab03f,BNBA,21Shares,2024-11-27,Other Asset Types
+5ffe23a56e424eb594e9a7c99d8d5bb2,HODL,21Shares,2024-11-27,Other Asset Types
+62cd7a6671dd4c9cbd6ae6e09bfa3bff,HWOE,HSBC,2024-12-11,Equities (Stocks)
+66104f6a7e764132b6f14c34c4777626,HCAS,HSBC,2024-12-11,Equities (Stocks)
+5ec78de2caaa4b1eb2cf6a2c446677eb,SLGOMXH25,Seligson,2024-12-05,Equities (Stocks)
+677cf276d6114af3853475917cfea412,3AKE,Leverage Shares,2024-12-06,Equities (Stocks)
+678015ce3c9f43109ec36ce030420549,5SPE,Leverage Shares,2024-12-06,Equities (Stocks)
+67b5b543f2ec4e0196079d6ccb41b9cb,3MSE,Leverage Shares,2024-12-06,Equities (Stocks)
+67bb1c49017341faa6e8d3382accb303,SC0R,Invesco,2024-12-06,Equities (Stocks)
+6818dead457743eca2915079b2561bef,NVI3,Leverage Shares,2024-12-06,Equities (Stocks)
+6993d7ae7e864de0a8a9b21bdb8b0bd9,SC0C,Invesco,2024-12-06,Equities (Stocks)
+6a39ffc3e721429b8628f86028a6160e,2BTD,21Shares,2024-11-27,Other Asset Types
+6ac0ee82d2b148b087620c423033f7c4,SAMD,Leverage Shares,2024-12-06,Equities (Stocks)
+6ad2a486666944d5bb30afcddf9f0731,KFTK,Invesco,2024-12-06,Equities (Stocks)
+6de6f0f76a604f52a7d9989bf0e9e7fd,KOR3,Leverage Shares,2024-12-06,Equities (Stocks)
+6dfc8a0768844ccf8327eb9acb4135b5,H4ZL,HSBC,2024-12-11,Equities (Stocks)
+6f73b5fd0b7a4afea3e8b823d1e7d787,H4ZX,HSBC,2024-12-11,Equities (Stocks)
+719add37523b4ebc9dcddc85e31af4e8,S6X0,Invesco,2024-12-06,Equities (Stocks)
+6756426ea10b442fb78be27daa16127f,HMCH,HSBC,2024-12-11,Equities (Stocks)
+6766c6e793844102be93922502cb5324,CBTC,21Shares,2024-11-27,Other Asset Types
+6820928b6e71473fbe4bba144c23e34f,2BAB,Leverage Shares,2024-12-06,Equities (Stocks)
+697eebef633f4351a91fc875ec765fd8,HSTC,HSBC,2024-12-11,Equities (Stocks)
+698add9b21ca4d8082de2f4dc53c65de,SFB3,Leverage Shares,2024-12-06,Equities (Stocks)
+6a455f86793f4fbca9caabe6ff7e6da6,2VIS,Leverage Shares,2024-12-06,Equities (Stocks)
+6aa51075d41e427683f6f521bac9515f,3KWB,Leverage Shares,2024-12-06,Equities (Stocks)
+6b576f30519b467f9f60b2b4703849d8,HPAO,HSBC,2024-12-11,Equities (Stocks)
+6cefa5e3e06b4545b9a02ecad40f179c,SP5Y,Leverage Shares,2024-12-06,Equities (Stocks)
+6cff35dd7edf40bc876d7d3d0d81b9d7,BAES,Leverage Shares,2024-12-06,Equities (Stocks)
+6d15ab7a2a0c4ee0997cde190216785c,COI1,Leverage Shares,2024-12-06,Equities (Stocks)
+6d97ec71426344189b252b0705996b2c,CON3,Leverage Shares,2024-12-06,Equities (Stocks)
+6da907df9b6b41409c83877744a56a18,HPEM,HSBC,2024-12-11,Equities (Stocks)
+6dfbb584c37d4d3ba95a746180decde7,HSXU,HSBC,2024-12-11,Equities (Stocks)
+6e0cfe7fb2da43f5bd5e790d4e46f0af,NFL3,Leverage Shares,2024-12-06,Equities (Stocks)
+6e5ca2b6f6734b72a555b6e20c25ebe6,3AME,Leverage Shares,2024-12-06,Equities (Stocks)
+6ea3760280e74acc821209f9784787e9,SPEP,Invesco,2024-12-06,Equities (Stocks)
+6ee5e480b83844b29a46c607bf6adee3,TSLD,Leverage Shares,2024-12-06,Equities (Stocks)
+70712dfcab0d4a958d87a6fdc8e4ada9,XO3S,Leverage Shares,2024-12-06,Equities (Stocks)
+70b7d344c6de451689a0ecb525934874,C300,Invesco,2024-12-06,Equities (Stocks)
+70d2f6be3afa4ee7982ed2ddd8ef539a,FB3S,Leverage Shares,2024-12-06,Equities (Stocks)
+7164358333dd48c2b336c91411ec113a,GLD3,Leverage Shares,2024-12-06,Commodities & Metals
+721d14eef5ff446b874866091190ab43,HWVL,HSBC,2024-12-11,Equities (Stocks)
+67c85f9c59fa45238fc33c3df98e8722,MMLP,HANetf,2024-12-05,Equities (Stocks)
+683f04a998c74e7b94d0a7004fcf68b5,XLPS,Invesco,2024-12-06,Equities (Stocks)
+69b18c26ac204a238dad3abd886d262b,SMSEUR,Invesco,2024-12-06,Equities (Stocks)
+6a04afaa4a3043b29dd46f52e5810146,GSEM,Goldman Sachs,2024-12-06,Equities (Stocks)
+6fa85c946b864a7aab724366ba7129ba,3PLT,Leverage Shares,2024-12-06,Equities (Stocks)
+6fb45677976d4201a2294ffd5c727baf,CMOE,Invesco,2024-12-06,Commodities & Metals
+720ea44dc4a546dcba999f0794b179d9,HWVL,HSBC,2024-12-11,Equities (Stocks)
+6b63199dc1274fb3aa88d21cdd269059,S600,Invesco,2024-12-06,Equities (Stocks)
+6e86c79f5b3e4dc1a7f046e5a6ab204a,AETHEUR,21Shares,2024-11-27,Other Asset Types
+6f31e7c861d849f7a0b909968a997a12,AVAX,21Shares,2024-11-27,Other Asset Types
+70a061f981604bf7a318fa356780bd2a,STAKE,21Shares,2024-11-27,Other Asset Types
+683a2c3d08a449378c0eb7cf87ccdb2c,SPXS,Invesco,2024-12-06,Equities (Stocks)
+68e1bc78d7b6419d971fd9e24c77b16e,STSM,Leverage Shares,2024-12-06,Equities (Stocks)
+6c14f12a096745cdb16272cf2dc4a571,FUTR,21Shares,2024-11-27,Other Asset Types
+6c8064fb3a7d4a999ae06edf368174b1,3FB,Leverage Shares,2024-12-06,Equities (Stocks)
+6ef3b2715197423a9b88bd36f4e3e062,CBTC,21Shares,2024-11-27,Other Asset Types
+70e3dfbf998e40a892938cf87d07006a,3NFL,Leverage Shares,2024-12-06,Equities (Stocks)
+71d09b1395c148c298a4180a4e4be353,SNFL,Leverage Shares,2024-12-06,Equities (Stocks)
+6b062f4596ca486cac2e283a17bdc9ba,STAKE,21Shares,2024-11-27,Other Asset Types
+6b89513219f042ec9ec830adecdbcd2e,CBTC,21Shares,2024-11-27,Other Asset Types
+6d823306b71c413f91cc1f95925fa46a,ATOM,21Shares,2024-11-27,Other Asset Types
+716f6b26d4c645128383ca6ccd8aad93,ABTC,21Shares,2024-11-27,Other Asset Types
+69c925513a9740ef9c41c6d94f68579e,HUBE,Expat Capital,2024-11-29,Equities (Stocks)
+6aff9914159a4a82aafee40d33e103b3,CZX,Expat Capital,2024-11-29,Equities (Stocks)
+72e74d8b8a2a4d069a7148092fc3044f,SC0E,Invesco,2024-12-06,Equities (Stocks)
+73823e14699e46818c62f56f2f5f1b16,NS4E,Invesco,2024-12-06,Equities (Stocks)
+74cb88075f2c4b3e8b7b8adbb878100d,SC00,Invesco,2024-12-06,Equities (Stocks)
+752a2e8bd9c74745bff36ed8c5ce6140,SLQX,Expat Capital,2024-11-29,Equities (Stocks)
+75441fd5d52443a6a1702243ce81f5f5,PPA3,Leverage Shares,2024-12-06,Equities (Stocks)
+7670a0631ab3436b97bd5aca073d89e3,5ESG,Invesco,2024-12-06,Equities (Stocks)
+780b866b2acb403bbee1182a09be4f96,H4Z1,HSBC,2024-12-11,Equities (Stocks)
+7825ca272c9f4d7db959c04e7b4b1f03,3BIE,Leverage Shares,2024-12-06,Equities (Stocks)
+787f69588d114752951e82b761deef49,H41F,HSBC,2024-12-11,Equities (Stocks)
+78ecda60f3e441b7951c11c1fbdf87e1,BGX,Expat Capital,2024-11-29,Equities (Stocks)
+72583042e7e34fc797d4f96e490f8cb2,XLKS,Invesco,2024-12-06,Equities (Stocks)
+7273b1de11dc4111b0402babf8fb6c09,NVD2,Leverage Shares,2024-12-06,Equities (Stocks)
+72a84f4750ac498480774456ea2adeae,HKOR,HSBC,2024-12-11,Equities (Stocks)
+73c1f59768714783bdff17716001896a,2STE,Leverage Shares,2024-12-06,Equities (Stocks)
+73cb3e25570349fb8e3d176b892e8ec6,SPYE,Leverage Shares,2024-12-06,Equities (Stocks)
+7476d51f838448d5b00065bf48537302,3SXL,Leverage Shares,2024-12-06,Equities (Stocks)
+74f816ee1f7d46d6ae0d0da72fbacf03,GG3S,Leverage Shares,2024-12-06,Equities (Stocks)
+756e67564df34a3b95b84adb8a7d46f0,MXUK,Invesco,2024-12-06,Equities (Stocks)
+75777cd41c1c48edbac82ad7248806e2,NIO3,Leverage Shares,2024-12-06,Equities (Stocks)
+757e1893c8e14e3589d4714c410a6294,SLVS,Leverage Shares,2024-12-06,Commodities & Metals
+757f0535d9c043ac82ae9a4e09f8963f,3SYE,Leverage Shares,2024-12-06,Equities (Stocks)
+7592eeb5dc6d4a5a9ce9e6b407065e2b,3NFE,Leverage Shares,2024-12-06,Equities (Stocks)
+75c7a38ece4a4e24bd7130f760f2a2a7,TS2S,Leverage Shares,2024-12-06,Equities (Stocks)
+75d3195566a949eea9f3f65050a2f426,TSM3,Leverage Shares,2024-12-06,Equities (Stocks)
+76ac7f1de90e4a8194fe43e2fdcca117,3DAX,Leverage Shares,2024-12-06,Equities (Stocks)
+7769032560b546c58384deeea4d4d507,SSQ,Leverage Shares,2024-12-06,Equities (Stocks)
+776efe9653c049dc9ec65a5167705ef8,HSEF,HSBC,2024-12-11,Equities (Stocks)
+77ddda4e5c3f4023bce3fb40985768f3,3GLE,Leverage Shares,2024-12-06,Commodities & Metals
+7807c8d89eee45b6b6c7c451f5be1ef7,TSLA,Leverage Shares,2024-12-06,Equities (Stocks)
+789d1e0c580f4e35934410f7c218d598,3CRE,Leverage Shares,2024-12-06,Equities (Stocks)
+78b3744a23844d17801aab0d65d6eae0,VIS2,Leverage Shares,2024-12-06,Equities (Stocks)
+78c09222699442dfa1c90c8f5118a159,SPY3,Leverage Shares,2024-12-06,Equities (Stocks)
+790a5feb7e724acf89515ff40a350528,3SEE,Leverage Shares,2024-12-06,Equities (Stocks)
+79720e1388974274aa15d8ab133e7fa5,MSAU,Invesco,2024-12-06,Equities (Stocks)
+799dd665d29d4a28ad35c15e3fe621b3,3TAI,Leverage Shares,2024-12-06,Equities (Stocks)
+79a40711fad54ab88d11851dfbc26318,HITC,HSBC,2024-12-11,Equities (Stocks)
+79ad2eaff7a640c5ae30616ed70faded,3SIN,Leverage Shares,2024-12-06,Equities (Stocks)
+7a168a5f657b46d48ca0b6bd2332f6a3,MLPD,Invesco,2024-12-06,Other Asset Types
+7a172a0c0a2b487baee731503428dad8,MSF1,Leverage Shares,2024-12-06,Equities (Stocks)
+7a3a6d1f8d9b4fe9bb0ac498ce4084ef,AAPE,Leverage Shares,2024-12-06,Equities (Stocks)
+7a84a6f8765b43aa83d3e2bc0170c563,HFEJ,HSBC,2024-12-11,Equities (Stocks)
+7b2c581f3d124845865dd78a6089e1b1,WTIS,Leverage Shares,2024-12-06,Commodities & Metals
+7b4b450a38fd459eb8c764ca2b143312,HMCT,HSBC,2024-12-11,Equities (Stocks)
+7b8ea980d5a64805b755706126e19500,HCHS,HSBC,2024-12-11,Equities (Stocks)
+7c1a890e4a2d4e48958cb4ec398f0827,WRLD,Goldman Sachs,2024-12-06,Equities (Stocks)
+7d285f4efdcb4a7193dc565485f0a62e,MXJP,Invesco,2024-12-06,Equities (Stocks)
+7741889d2a7943d6b7435cb74d5211e6,HMWA,HSBC,2024-12-11,Equities (Stocks)
+786be39671e640779e30aaeee7bc1430,3NIO,Leverage Shares,2024-12-06,Equities (Stocks)
+78aa4f262bac45af8ea572fa47622459,MLPD,Invesco,2024-12-06,Other Asset Types
+7369b6e22de74b198d03ef9d3d13167b,MXWO,Invesco,2024-12-06,Equities (Stocks)
+7475ae3bee2f47c28da5049f56849542,CBNX,Goldman Sachs,2024-12-06,Bonds
+74c25980b478428fbcb7909bcde25852,HMEUEUR,HSBC,2024-12-11,Equities (Stocks)
+75f86045f4ad411fb1a912bdde4f2a80,MMLP,HANetf,2024-12-05,Equities (Stocks)
+77e5657b741c4f848bc21b3c7ce41ffe,5OGE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+7a5c88ae07c54c258170062523954f97,HMXJ,HSBC,2024-12-11,Equities (Stocks)
+7b25450a0f4047f99fe69c1ebc9d4200,KEYS,21Shares,2024-11-27,Other Asset Types
+7c0a70a6a098482b85779373143f027d,HSJD,HSBC,2024-12-11,Equities (Stocks)
+73c2c81133f9467987e2027c97eee403,2VIS,Leverage Shares,2024-12-06,Equities (Stocks)
+7a5eeae20568497a85799033218b5194,SAPL,Leverage Shares,2024-12-06,Equities (Stocks)
+7b87b4585f704d5484d78e98b0af7fcc,2AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+7cf83d09ef1a4b09995767d7c9d706be,SSQ,Leverage Shares,2024-12-06,Equities (Stocks)
+725baa3086d74b55a4fd9fcd5c941386,OP5E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+73117081393843a185ae9675f4f911eb,AOPT,21Shares,2024-11-27,Other Asset Types
+73cf900275fc4f0799ad5f9e57ebfd9c,CAPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+7506aad4336a4783a08dc3543549ff16,BOLD,21Shares,2024-11-27,Target Date / Multi-Asset
+76a478351eec47d49410c24cfbbd9100,ASAND,21Shares,2024-11-27,Other Asset Types
+7a03aa2170ff4aaab12faf7d0706d1ed,HODLX,21Shares,2024-11-27,Other Asset Types
+7c6cdd6726af45f6b29ece4df76e91eb,GRX,Expat Capital,2024-11-29,Equities (Stocks)
+7dbf0489f84840df9cfe290f2f2ec0a7,TAI3,Leverage Shares,2024-12-06,Equities (Stocks)
+7e2a24c105904ac6939906d1efd546f9,3GLD,Leverage Shares,2024-12-06,Commodities & Metals
+7ef56c434d964ede85d3ee30fa438780,1APS,Leverage Shares,2024-12-06,Equities (Stocks)
+7f4bf9e3b1c74a10adba6124fabcad7a,SKOR,Leverage Shares,2024-12-06,Equities (Stocks)
+7fe4e276d45e4e5f8520b9ee48f3d7fc,GG3S,Leverage Shares,2024-12-06,Equities (Stocks)
+83d893110ddf4c08a900b2e00edf5e63,SNXE,Leverage Shares,2024-12-06,Equities (Stocks)
+846f0d71354d44dfae5c187b0e19bb69,CMOE,Invesco,2024-12-06,Commodities & Metals
+84f3e10ea91c4513ac57fa1f71efe89c,3DIE,Leverage Shares,2024-12-06,Equities (Stocks)
+865d83617cc245bb9496c0140b179ffa,H411,HSBC,2024-12-11,Equities (Stocks)
+7d46e572a1e14b74ba44cd6864474a17,SX4S,Leverage Shares,2024-12-06,Equities (Stocks)
+7d596e4665f1483e92422949538e6aa2,NFLS,Leverage Shares,2024-12-06,Equities (Stocks)
+7d5cf1bc0c7e45b1bdb662e4e6aa9362,GL3S,Leverage Shares,2024-12-06,Commodities & Metals
+7d630388e38f43cb815460c8efd8405f,AAAG,Fair Oaks,2024-12-10,Bonds
+7d7925eec8084702a7388964041054b6,TS3S,Leverage Shares,2024-12-06,Equities (Stocks)
+7d935974fb9c46aea3b494ba4b75e3b1,GOO2,Leverage Shares,2024-12-06,Equities (Stocks)
+7da8c511ba1f4219a33d9b0c5456339a,AI3,Leverage Shares,2024-12-06,Equities (Stocks)
+7daec92f77364dcbad5cf624121be13c,2NFL,Leverage Shares,2024-12-06,Equities (Stocks)
+7df652a0339542c39f1556b99e408112,SQQQ,Leverage Shares,2024-12-06,Equities (Stocks)
+7e733c7b81154cbcbf634fe4ea0301f9,XREP,Invesco,2024-12-06,Equities (Stocks)
+7e87cac10a7947898892c6875a1368f9,HSAS,HSBC,2024-12-11,Equities (Stocks)
+7ee6264ae06d4173bf152a3cbf89969a,MXWO,Invesco,2024-12-06,Equities (Stocks)
+7fc2eb2ce9d64ae38ecf8615577367c6,BRK2,Leverage Shares,2024-12-06,Equities (Stocks)
+7ff2431a5e3844afa769b0084c87bc15,3CHI,Leverage Shares,2024-12-06,Equities (Stocks)
+809877d81a704847a5f4afdffc6037ab,GOOI,Leverage Shares,2024-12-06,Equities (Stocks)
+809c95e367e34098b6bde1bd741af4fb,HMEU,HSBC,2024-12-11,Equities (Stocks)
+80a5c98fc0df426180767b5b32fd9483,MSF2,Leverage Shares,2024-12-06,Equities (Stocks)
+80e9bc3756494ef5bee5964f17b6fed9,ABN3,Leverage Shares,2024-12-06,Equities (Stocks)
+81817dc40f5940d780cc7b9e55d39c14,SPXD,Invesco,2024-12-06,Equities (Stocks)
+81c05b84420845f485a3d287031d8158,SSPY,Leverage Shares,2024-12-06,Equities (Stocks)
+81f83e943b6140b584c7501c0450538e,3SMF,Leverage Shares,2024-12-06,Equities (Stocks)
+826754a145b24f44871afff41cbc7682,AMD3,Leverage Shares,2024-12-06,Equities (Stocks)
+826da6ea960142d6aea636ff4aaadadf,HLA1,Leverage Shares,2024-12-06,Equities (Stocks)
+82f7fa7a8653453497bdcd75484ac092,AAP3,Leverage Shares,2024-12-06,Equities (Stocks)
+837b7839d880411994a2d0c7a961e05c,SAMD,Leverage Shares,2024-12-06,Equities (Stocks)
+83a0c3545b3f4d71b28d84f79b952622,VPCU,Leverage Shares,2024-12-06,Equities (Stocks)
+842632331b5d4b5ead1334eabf86bdca,MBG3,Leverage Shares,2024-12-06,Equities (Stocks)
+842e8b2d2921400fb86e9890b2575d84,CA3S,Invesco,2024-12-06,Equities (Stocks)
+8441b7c4bedb4a299f2ffbec2abc8df3,2AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+846a562d6a3b472582f628a0aad94895,SPYY,Leverage Shares,2024-12-06,Equities (Stocks)
+8480d6a121554ac78c4e1d8c75a627ce,S600,Invesco,2024-12-06,Equities (Stocks)
+849897639e7d44b2a8fc16ca9dbd99d5,HCHA,HSBC,2024-12-11,Equities (Stocks)
+84e23a0fcf074e889ab0368aae079c9a,HIJP,HSBC,2024-12-11,Equities (Stocks)
+84f7a2e977f84482aea1f6960077fbb7,TSL3,Leverage Shares,2024-12-06,Equities (Stocks)
+853732a53baf435fb6e5a47cdeeede1a,HMES,HSBC,2024-12-11,Equities (Stocks)
+8548c5b786b04b53baa59e347cd6228a,2BAE,Leverage Shares,2024-12-06,Equities (Stocks)
+857c51824ab2438c80be66dfa3c01d1e,RICI,Market Access,2024-12-06,Commodities & Metals
+85dcc689217c4707a50bfc472801a02d,VISE,Leverage Shares,2024-12-06,Equities (Stocks)
+8680b234ce8e43d19a12b956729d86fc,SOXS,Leverage Shares,2024-12-06,Equities (Stocks)
+8753695d7a6740f4b34383214fe1a9bb,CBTU,21Shares,2024-11-27,Other Asset Types
+7f47f5d2b6914f1f85c54af2066ebd2a,XLBS,Invesco,2024-12-06,Equities (Stocks)
+838efc2850354853a9b0aa055ac7d6ac,SBA3,Leverage Shares,2024-12-06,Equities (Stocks)
+83d1b9f37f994d3e9c630e2c63010820,HEMV,HSBC,2024-12-11,Equities (Stocks)
+7edf7d229a9d4fddb5e50b3404185368,AETH,21Shares,2024-11-27,Other Asset Types
+7f9bf2efffe2409e9ce311456cd2a8de,XLES,Invesco,2024-12-06,Equities (Stocks)
+8332c53fdbb14b52818256ffb90cebd8,EUMV,OSSIAM ETF,2024-12-11,Equities (Stocks)
+84a3d4c34d37450994f454072a17b2b8,OP2E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+8540a987b74d468292094ec26cb2da82,C2MV,OSSIAM ETF,2024-12-11,Equities (Stocks)
+867b5cf3f21c4477a35d90a398893f6e,ADOTGBP,21Shares,2024-11-27,Other Asset Types
+8266fb6b63e949fab44df022df04409e,AIMX,21Shares,2024-11-27,Other Asset Types
+828d62a097ed4dc7b194aecad516f82f,AMKR,21Shares,2024-11-27,Other Asset Types
+82d88edda3e845ceb2a5a12caea9c792,5SPY,Leverage Shares,2024-12-06,Equities (Stocks)
+83f2e245737f43b18d1513f03ef7a44e,AETH,21Shares,2024-11-27,Other Asset Types
+822d6389f30e46a3a48670354a8077b3,HBDS,HSBC,2024-12-11,Equities (Stocks)
+82f5e14e96f648eaafaa0301b43a7f67,AARB,21Shares,2024-11-27,Other Asset Types
+84532bf44128482da424a458a34bc457,APTOS,21Shares,2024-11-27,Other Asset Types
+8465d25d43254430a4e2b9b270079db9,LIDO,21Shares,2024-11-27,Other Asset Types
+89db7c20564a45c494f1c6cdd6679b33,H412,HSBC,2024-12-11,Equities (Stocks)
+8a315d8181264baf9a5e10a895eea0a3,METY,Leverage Shares,2024-12-06,Equities (Stocks)
+8aa3070f6d9f4df0ab2da170c633530f,GASF,Goldman Sachs,2024-12-06,Bonds
+8ab9f82950f34b68abc08112758f29a2,MSTS,Leverage Shares,2024-12-06,Equities (Stocks)
+8bbc1f443fe24b0bb4e7d97592ff4eb2,3SAM,Leverage Shares,2024-12-06,Equities (Stocks)
+8bca0469678b4a2c9a91554e20fbfa02,3DAX,Leverage Shares,2024-12-06,Equities (Stocks)
+8c561d0369c644b791213c91e9701db6,HP8E,HSBC,2024-12-11,Equities (Stocks)
+8d7972ae18a84252a113e808ee4b3745,3AN,Leverage Shares,2024-12-06,Equities (Stocks)
+8eaf68d81dcb4388a9294a4e4ce9a783,2BRE,Leverage Shares,2024-12-06,Equities (Stocks)
+87c499908cb64fb19076fdd80bb28868,HSPD,HSBC,2024-12-11,Equities (Stocks)
+87d12abbdd994247bc715d58b48b468c,QQQY,Leverage Shares,2024-12-06,Equities (Stocks)
+89a66bdfc4a049dda53b1ed681928156,HTWD,HSBC,2024-12-11,Equities (Stocks)
+89babea0939c4fa4ba63345a614c7537,3CNE,Leverage Shares,2024-12-06,Equities (Stocks)
+8a40483987904090b1d2449a2279b8e9,3GDX,Leverage Shares,2024-12-06,Equities (Stocks)
+8a8eea582ce84ffd9dfe8f4bb83b5509,3SKE,Leverage Shares,2024-12-06,Equities (Stocks)
+8ac97c056ae44996b0cc326c57ee608e,SCHI,Leverage Shares,2024-12-06,Equities (Stocks)
+8b433082e84a4ebb8a243abef0323ff9,3JDE,Leverage Shares,2024-12-06,Equities (Stocks)
+8c7506197b604352b368bd623ccf3a80,2NVD,Leverage Shares,2024-12-06,Equities (Stocks)
+8cffcc77275e48b8b1cefa7818674902,3SMT,Leverage Shares,2024-12-06,Equities (Stocks)
+8d187d22feea43d0a84481482ce7fbbc,HMWS,HSBC,2024-12-11,Equities (Stocks)
+8d4c7b5e5d22484a8cbc12cb5237a621,HSMS,HSBC,2024-12-11,Equities (Stocks)
+8d69b35c9b824ae1a76a303d9e20c06f,XLFS,Invesco,2024-12-06,Equities (Stocks)
+8d74031a6ebb45d7b549f71814bd4d0d,SOX4,Leverage Shares,2024-12-06,Equities (Stocks)
+8e1434d6d7e4403483bdab8df803a37e,HINS,HSBC,2024-12-11,Equities (Stocks)
+8ebeec78b1a3446bb5825f7b14ca82e6,2BRE,Leverage Shares,2024-12-06,Equities (Stocks)
+8eefd7985a1a4c258d3d1b62a9f05e1e,SARK,Leverage Shares,2024-12-06,Equities (Stocks)
+8f1ba497c18440508e9a88d622eb5545,3SAM,Leverage Shares,2024-12-06,Equities (Stocks)
+8f2c473f88ad430189272e83a8a29c09,XLF3,Leverage Shares,2024-12-06,Equities (Stocks)
+8f5326d03c9c4e2bb7bc5b94429b8cfb,GOO3,Leverage Shares,2024-12-06,Equities (Stocks)
+8f9de5ec3552433eb6f267d04a40c37f,BUFD,Leverage Shares,2024-12-06,Equities (Stocks)
+9006fd22d33b4b1a8865b78e945d0690,JPNS,Leverage Shares,2024-12-06,Equities (Stocks)
+90215eef75ed44d6a569006b0c791ac2,2MU,Leverage Shares,2024-12-06,Equities (Stocks)
+9068a4fda70c4e78969ebc292609a5d9,SGDE,Leverage Shares,2024-12-06,Equities (Stocks)
+90740d25cebf473192599ef6885777e7,STSE,Leverage Shares,2024-12-06,Equities (Stocks)
+90dec0cc28ed4443bb92622197087c04,HWWS,HSBC,2024-12-11,Equities (Stocks)
+8b528618f15a4f82afdf8f275ea57b14,XLIS,Invesco,2024-12-06,Equities (Stocks)
+8d75f5ffd2c64be29f45ee41be58fd8b,MXUE,Invesco,2024-12-06,Equities (Stocks)
+8e7aabb4605e4c59b5cd3f6bc988f9b4,SDJE5D,Invesco,2024-12-06,Equities (Stocks)
+8ee84871de094d23bdaa990649b20519,SMSJPN,Invesco,2024-12-06,Equities (Stocks)
+90cc88779b2d4fb7b0382c36bd3c1ad5,GAS,Leverage Shares,2024-12-06,Commodities & Metals
+89734cf1d8454a39a18500e6b89b6845,BOLDUSD,21Shares,2024-11-27,Target Date / Multi-Asset
+8c8227dab24c452baab4ff3f1ae3e7bd,CBTC,21Shares,2024-11-27,Other Asset Types
+8c8cccc9a1624fc5a9abfe2736e4ff5e,HPAE,HSBC,2024-12-11,Equities (Stocks)
+8c216c44c85b4251ac4108c6469f7937,JPMS,Leverage Shares,2024-12-06,Equities (Stocks)
+8c57ccb1f03e418bbe602c743484b76b,3PYP,Leverage Shares,2024-12-06,Equities (Stocks)
+8f84548bb4f04b2f806f5bd19051f594,HCHS,HSBC,2024-12-11,Equities (Stocks)
+91bf253f79124bf3993f34f99c99369e,OSX6,OSSIAM ETF,2024-12-10,Equities (Stocks)
+9236a37d1799486b9bc5c90534194ee3,EL46,Deka ETF,2024-11-29,Equities (Stocks)
+9294c5667ea84928892d7dd1b340007b,H41X,HSBC,2024-12-11,Equities (Stocks)
+9393b82e6457440facbce4179a1a747d,3MRN,Leverage Shares,2024-12-06,Equities (Stocks)
+93f341c815204d66ad275fac5ec2916c,JMLP,HANetf,2024-12-05,Equities (Stocks)
+9418a866a2cd49aa82efd38c1b28f786,SC0I,Invesco,2024-12-06,Equities (Stocks)
+94bc4c6b7d9143e0949d3399ca2a7496,3JPN,Leverage Shares,2024-12-06,Equities (Stocks)
+95b417e9652347d2be7d28ea166554a0,OIL2,Leverage Shares,2024-12-06,Commodities & Metals
+96195cec40c846e69bce83a36eb33b36,GOOE,Leverage Shares,2024-12-06,Equities (Stocks)
+96aae96086e54febb4434740c9a22f48,21BC,21Shares,2024-11-27,Other Asset Types
+98fae0717418437d9218d86085bb953b,HP2A,HSBC,2024-12-11,Equities (Stocks)
+9970db57a05c4b798ca3b8e3f053647c,3SIC,Leverage Shares,2024-12-06,Equities (Stocks)
+99c9f55aacee4b39868f7b38c059c06c,H4ZC,HSBC,2024-12-11,Equities (Stocks)
+9a966c0b9cc0411e9a088148decbdc76,OSX4,OSSIAM ETF,2024-12-11,Equities (Stocks)
+924f590040bb498295854334ef0a0340,SBA,Leverage Shares,2024-12-06,Equities (Stocks)
+9259e58ff2824d37ab7f20c29e430cb1,2AMD,Leverage Shares,2024-12-06,Equities (Stocks)
+92780476301a4bddb1b77e70b69f1e04,HPED,HSBC,2024-12-11,Equities (Stocks)
+9292e251489f4517933a9817d9656860,SGYE,Leverage Shares,2024-12-06,Equities (Stocks)
+92c472346dcb4a59a5934d70e5763959,CRM3,Leverage Shares,2024-12-06,Equities (Stocks)
+934c34de8bff4e83ac50c189bc0aed30,SPLR,Leverage Shares,2024-12-06,Equities (Stocks)
+93906a8feade4f7ca5565c49a27122c7,MSF3,Leverage Shares,2024-12-06,Equities (Stocks)
+93b799719b6a4f1fa76197c762750ee5,5QQE,Leverage Shares,2024-12-06,Equities (Stocks)
+93efe12d1abf4ee49bc1e3dec476aaa6,ION3,Leverage Shares,2024-12-06,Equities (Stocks)
+942eb30fe7b04ef6a3f0f36d23773d91,QQQO,Leverage Shares,2024-12-06,Equities (Stocks)
+9639c21e56a84620a9109f4e8f265853,HPRD,HSBC,2024-12-11,Equities (Stocks)
+971bc8f3131e40f898cfa5bbeaadc947,HPAW,HSBC,2024-12-11,Equities (Stocks)
+9732940ed6b2446a8042cb5244eaeb64,FB2,Leverage Shares,2024-12-06,Equities (Stocks)
+979bc90e02f04bc1a1f1ac46ab01f2e8,3NVE,Leverage Shares,2024-12-06,Equities (Stocks)
+97e7ef7b1b87414a91f05034ddbb538a,XLIP,Invesco,2024-12-06,Equities (Stocks)
+98ba454718d34e88871cf90caed5aea4,HNCT,HSBC,2024-12-11,Equities (Stocks)
+996e7bf76430401cb5c00b66561d0616,ARK3,Leverage Shares,2024-12-06,Equities (Stocks)
+9a42fa3e207541c08616b9f0aa336414,HCAA,HSBC,2024-12-11,Equities (Stocks)
+9a4dbd78c6064fa0af5992798d595424,3ABN,Leverage Shares,2024-12-06,Equities (Stocks)
+9a7dbfc9e6114069897eea95f3d4e537,HSTE,HSBC,2024-12-11,Equities (Stocks)
+953f561d4589435cb73b76759766dde8,HMEM,HSBC,2024-12-11,Equities (Stocks)
+9a1b633c7f1c411bb382457839c8cdc8,HCHA,HSBC,2024-12-11,Equities (Stocks)
+9a74ee3a76894c7cac7e3cba7926cbff,H50A,HSBC,2024-12-11,Equities (Stocks)
+9a7fffc2d97b4362a7e1f9e3e6ec7c28,3TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+92072968ec944bc2be5729968fab49bb,HIEU,HSBC,2024-12-11,Equities (Stocks)
+922762efade147edbcce8d4487b42a6c,HIWO,HSBC,2024-12-11,Equities (Stocks)
+9426b6bf13224ba8a4be413f68d6616d,AVAXGBP,21Shares,2024-11-27,Other Asset Types
+944bda01191d4c95b38759cd05674368,HODL,21Shares,2024-11-27,Other Asset Types
+94fc7dcd4ed642e997d1acd3813183f2,ATOMEUR,21Shares,2024-11-27,Other Asset Types
+975fb724d8794790b7b636ae86c70d73,MOON,21Shares,2024-11-27,Other Asset Types
+97da924f13bd4eb589fdc8212860a709,HMWO,HSBC,2024-12-11,Equities (Stocks)
+98e3d61ec7564e60b33839922d5e4565,HIUA,HSBC,2024-12-11,Equities (Stocks)
+9a1dc19c21264911939453eab58b529c,HODLXCHF,21Shares,2024-11-27,Other Asset Types
+92dfc53ed2b1413bbe85f9906ad82a83,SQQQ,Leverage Shares,2024-12-06,Equities (Stocks)
+92fbe4bef01e4c05a204088eaf7de3c8,TSLQ,Leverage Shares,2024-12-06,Equities (Stocks)
+95748ac79f594a0ea85172831e9f201a,HMES,HSBC,2024-12-11,Equities (Stocks)
+96787b609c7f40288e8c73c7463fc2d4,BGX,Expat Capital,2024-11-29,Equities (Stocks)
+9831a35dfb2b4defbd161add7a4b9b09,MKK1,Expat Capital,2024-11-29,Equities (Stocks)
+9c7652f3a2984b0c8322ec67a5e63970,EL4Z,Deka ETF,2024-11-29,Equities (Stocks)
+9d962f47a2f44aa29b79993252080429,TSLI,Leverage Shares,2024-12-06,Equities (Stocks)
+9e6a1c8c54fa4c20af6a918496223578,3TSC,Leverage Shares,2024-12-06,Equities (Stocks)
+9ff24b288ab54fbea5e7ae13d90fddaf,YGLD,Leverage Shares,2024-12-06,Commodities & Metals
+a027b2d83765484f8d94de7382aa6ef2,SC0H,Invesco,2024-12-06,Equities (Stocks)
+a0f590fc92f244efb39b2e9abb70a016,GACB,Goldman Sachs,2024-12-06,Equities (Stocks)
+a29acc57b05c4c35ba1e487da8f1e68c,SPL,Leverage Shares,2024-12-06,Equities (Stocks)
+a2d68f617207410ebd39a7553d9119c5,H4ZJ,HSBC,2024-12-11,Equities (Stocks)
+a33768cdafe840e38dab191cc2f3bfc2,3APE,Leverage Shares,2024-12-06,Equities (Stocks)
+9b21d974357b4ef68e06d05f46c39630,1ARW,Leverage Shares,2024-12-06,Equities (Stocks)
+9b4d8ba025b04f2ab7b414e30351f0a4,SWTI,Leverage Shares,2024-12-06,Commodities & Metals
+9bba24cb73ab4e7bb8e88af3e6752875,3CRM,Leverage Shares,2024-12-06,Equities (Stocks)
+9bbbc36f9ff0463a948c39c9d38bfcc0,HSJP,HSBC,2024-12-11,Equities (Stocks)
+9bff5fda37284c119e2696b2a900f708,JD3,Leverage Shares,2024-12-06,Equities (Stocks)
+9c467f14daea4aed9b143441d3b4d14d,HPAU,HSBC,2024-12-11,Equities (Stocks)
+9cedb2e8882f422094dacb25d6771d39,HSUD,HSBC,2024-12-11,Equities (Stocks)
+9cfda018521147c2bc5cc70438012a0b,SQQE,Leverage Shares,2024-12-06,Equities (Stocks)
+9d138ea914f1449dad5984c0aaba6e6c,HCAD,HSBC,2024-12-11,Equities (Stocks)
+9d90b58fa208429cbac380b770a6cafc,MXFP,Invesco,2024-12-06,Equities (Stocks)
+9d9b9ea12fda42a79b72bb36d830c3e5,DAX3,Leverage Shares,2024-12-06,Equities (Stocks)
+9e38887ca25340899c565c172aecf6a2,AAPY,Leverage Shares,2024-12-06,Equities (Stocks)
+9ec3a78fa1d64bca8b3efd98d93fd782,AETH,21Shares,2024-11-27,Other Asset Types
+9ecf897bd2334cd394baea5378a0bc01,CETU,21Shares,2024-11-27,Other Asset Types
+9ed36dfa74964b16b4044435d82e5bbb,FBE,Leverage Shares,2024-12-06,Equities (Stocks)
+9ee6f72227b146989c53508522939b83,XRES,Invesco,2024-12-06,Equities (Stocks)
+9f36635c2448428ab5a0aadc4c82f296,HSSU,HSBC,2024-12-11,Equities (Stocks)
+9fc42f4828304956ad405179014fe7e5,MSFT,Leverage Shares,2024-12-06,Equities (Stocks)
+a1288f3fb702414798eff3aba0e9ea3b,HSJD,HSBC,2024-12-11,Equities (Stocks)
+a1a3151f9d514df4979d74ab58107626,CMCG,Invesco,2024-12-06,Commodities & Metals
+a1c9d05822e24b10a2153a86d56a9255,SQS,Leverage Shares,2024-12-06,Equities (Stocks)
+a2bffef4fa3646bf8e27f463ac28321b,MSAP,Invesco,2024-12-06,Equities (Stocks)
+a37b19d9ba8845e3939f55a8660132f9,SMH3,Leverage Shares,2024-12-06,Equities (Stocks)
+a3ebe16abbb94f7e9358f42aa054288d,HMWD,HSBC,2024-12-11,Equities (Stocks)
+a3f839d467104ff58d24e8bb4b2048d7,3PRE,Leverage Shares,2024-12-06,Equities (Stocks)
+a3fe66d01f6840bf94fc526df9d3f8ae,2OIE,Leverage Shares,2024-12-06,Commodities & Metals
+a427d80f89bc44c89c33ed7e16fc3868,HPAS,HSBC,2024-12-11,Equities (Stocks)
+a42fde4b33b5485faa7fe84fe2d5f8a8,HMCA,HSBC,2024-12-11,Equities (Stocks)
+9b1155b6e65a4636bcf738fb7e2778f7,GSLC,Goldman Sachs,2024-12-02,Equities (Stocks)
+9b466d2f0778454890f3b5315e706c31,XLVS,Invesco,2024-12-06,Equities (Stocks)
+9c030412421846d2becc3286e3a66459,HSXD,HSBC,2024-12-11,Equities (Stocks)
+9c0eff8e46e84ae2bfecc6053f36ac17,3MRN,Leverage Shares,2024-12-06,Equities (Stocks)
+9cecb17633c24302bab73a1b7ddb328e,5ESG,Invesco,2024-12-06,Equities (Stocks)
+9d35814c9d6142f5a10623952218304e,ARM3,Leverage Shares,2024-12-06,Equities (Stocks)
+9d499e61e4dd4ab59044179c7505c8cf,OG35,OSSIAM ETF,2024-12-10,Bonds
+a0bf124274df4d558f39369d76382ef7,HSTE,HSBC,2024-12-11,Equities (Stocks)
+a36e25669a804dd2be9dda1cc3598624,E500,Invesco,2024-12-06,Equities (Stocks)
+9b846636b89b46ccb5b71fe7292402d5,MXEU,Invesco,2024-12-06,Equities (Stocks)
+9c2b8d15c1cb4fa18bc88954732e284d,HMAF,HSBC,2024-12-11,Equities (Stocks)
+9c7f9662c67647e3a4730e4697b6e9d7,HODLVCHF,21Shares,2024-11-27,Other Asset Types
+9d96f3962f3f4baa976c2fa327160726,H50EEUR,HSBC,2024-12-11,Equities (Stocks)
+9ea7ba4e5d1b40fc9c6f197e86579faf,HODLCHF,21Shares,2024-11-27,Other Asset Types
+9f78316b4c3341aa9d401b7f763858d8,AVAXCHF,21Shares,2024-11-27,Other Asset Types
+a1f96ae35406457d802817b49ba7d643,HBDV,HSBC,2024-12-11,Equities (Stocks)
+a3bcc1af4c0f4635bb00cdd48be64bac,HKOR,HSBC,2024-12-11,Equities (Stocks)
+9b4c2f0eb039494984d8bc6db6a0f76f,3ARKK,Leverage Shares,2024-12-06,Equities (Stocks)
+9b653cd6c4664be8a63fbabcc80c49d2,3TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+9e4b9247d9a54921ac1a5ad3a75bcb27,ALGO,21Shares,2024-11-27,Other Asset Types
+a1c4f05205274655bee802a788e4f126,ABCH,21Shares,2024-11-27,Other Asset Types
+a2dabc9b5b6846d5b8de2cf3d3363dcd,3GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+9d235a1b35854f12812cb28951f667fc,OP5H,OSSIAM ETF,2024-12-10,Equities (Stocks)
+9db83bd088594f698bed0bfeda36ac95,ADOT,21Shares,2024-11-27,Other Asset Types
+9e0edc4e36af4780890d4018dcca135f,OP7H,OSSIAM ETF,2024-12-11,Equities (Stocks)
+a004f72971104223bd0e83e754aaf37f,HSUK,HSBC,2024-12-11,Equities (Stocks)
+a3e18c2dca6d42fc8194253660767bc5,HHH,HSBC,2024-12-11,Equities (Stocks)
+a3ff259b5e54459280f74d4a4d769709,HEVS,HSBC,2024-12-11,Equities (Stocks)
+a4bc749107c44913903de290ecae06ff,GL3S,Leverage Shares,2024-12-06,Commodities & Metals
+a4f12ab6495745cfae9f7883a8b8d593,OP5H,OSSIAM ETF,2024-12-10,Equities (Stocks)
+a54bd047b5884711a654c6c8b7eb4c4a,H4Z3,HSBC,2024-12-11,Equities (Stocks)
+a568389139294c528898165e04327654,H41C,HSBC,2024-12-11,Equities (Stocks)
+a57c02593b624f47955e3b0f438eccda,EMSM,Invesco,2024-12-06,Equities (Stocks)
+a60fad9dcc6c4743bb0f97bbfa7aa490,NGTE,Leverage Shares,2024-12-06,Equities (Stocks)
+a79b7007742447c88a9b5bfddaa9a533,YMSF,Leverage Shares,2024-12-06,Equities (Stocks)
+ac43edb70bb049a0b6ce017084f381d2,H4ZA,HSBC,2024-12-11,Equities (Stocks)
+acded6ceee8240319fcc6685162236cc,GD3,Leverage Shares,2024-12-06,Equities (Stocks)
+ad5769e5516a4495b88a3736b57dab1e,C3AE,Invesco,2024-12-06,Equities (Stocks)
+ad75e938a8444ad2949339f753636616,C5ME,Invesco,2024-12-06,Equities (Stocks)
+add1ec1b15aa4acf83ad1817bc6149f5,EUPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+ae18a2ea26ac4a10a881d7e754a16b0e,NBTK,Invesco,2024-12-06,Equities (Stocks)
+a48bd39ca1404233957e9e79fd81bd8f,MS3S,Leverage Shares,2024-12-06,Equities (Stocks)
+a4fa5c114fc2452a9a22a1f6a8932590,HMXJ,HSBC,2024-12-11,Equities (Stocks)
+a536287399024dfd8f5947a91f7c2f8d,BGX,Expat Capital,2024-11-29,Equities (Stocks)
+a5d5106698a243e5baf0a3a2d586bd06,SMC2,Leverage Shares,2024-12-06,Equities (Stocks)
+a5de62fd91e244a5bcdbd090e020b6dd,3KWE,Leverage Shares,2024-12-06,Equities (Stocks)
+a69f6c3ab16a4279b329b5dc6a19c6ca,HPUD,HSBC,2024-12-11,Equities (Stocks)
+a7e460fe21294967b0a8b89d32e54531,3VTE,Leverage Shares,2024-12-06,Equities (Stocks)
+a8b9cafeea274a28871867d13e1d8c6a,XLFQ,Invesco,2024-12-06,Equities (Stocks)
+a905328dac1f4cca910b286026579621,HIEM,HSBC,2024-12-11,Equities (Stocks)
+aa83449fa9164531a478f5ec1c684310,SLV3,Leverage Shares,2024-12-06,Commodities & Metals
+ab2c52fdfbb34c31a3ccbddae9dba9cb,3ARK,Leverage Shares,2024-12-06,Equities (Stocks)
+ab31fe6aee204f569ff8827379448980,AMZE,Leverage Shares,2024-12-06,Equities (Stocks)
+ab532daa2ddc4ca9bbe5ae8ecc86a38b,IONQ,Leverage Shares,2024-12-06,Equities (Stocks)
+abe62747b7ea400f83d342587ef28793,XLCP,Invesco,2024-12-06,Equities (Stocks)
+abf3224cd78b42b6bb7f1df66970947b,SGOE,Leverage Shares,2024-12-06,Equities (Stocks)
+abfb40a2a9824df8aa0530ef255a3b12,CODL,Leverage Shares,2024-12-06,Target Date / Multi-Asset
+ac3be2cf1a0743548082fc1ea32efedb,X7PS,Invesco,2024-12-06,Equities (Stocks)
+ac55d13d29bd4e618a219175b85948b0,GLDI,Leverage Shares,2024-12-06,Commodities & Metals
+ace4e6f5cc9643868ac8d305314a3445,3UBE,Leverage Shares,2024-12-06,Equities (Stocks)
+ae00f6cb778946e58909a213eac7d32b,HSEM,HSBC,2024-12-11,Equities (Stocks)
+ae051db133864f599eccb171619a7f97,BRNL,Leverage Shares,2024-12-06,Commodities & Metals
+a660ff1577b74b26ae35df8500944842,SMCI,Leverage Shares,2024-12-06,Equities (Stocks)
+a711ce221ecb4c9489f91a1883eb8fe0,HAGG,HSBC,2024-12-11,Bonds
+a7332c49fa3a49d78a3de686b72f4869,3BAB,Leverage Shares,2024-12-06,Equities (Stocks)
+a802a625738441cf92ac824350335c39,HPAW,HSBC,2024-12-11,Equities (Stocks)
+acd85a05cb3c460487f583e4da2e0ccc,HSEM,HSBC,2024-12-11,Equities (Stocks)
+a4d7bb9bf02043118c369aef38b171fe,SPXS,Invesco,2024-12-06,Equities (Stocks)
+a4e4a5b42dba482e888fee96567c2525,ATOM,21Shares,2024-11-27,Other Asset Types
+a5e65001cb9644769fbec9624b61181f,OP5E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+a6a07eb284214728b40292f3ebd84cdf,SBIO,Invesco,2024-12-06,Equities (Stocks)
+a90b7000c4af4ff48349cc9a17eb6567,HSXD,HSBC,2024-12-11,Equities (Stocks)
+aa691053815048799338917a9151aaea,CBTC,21Shares,2024-11-27,Other Asset Types
+ab6611cd39f94a4ea4a24d7084d3a1af,XLUS,Invesco,2024-12-06,Equities (Stocks)
+ab7de48e0c6c443189db6ef0af5e7a78,HCAN,HSBC,2024-12-11,Equities (Stocks)
+aca9e8dd39864ea7a23114bbdeed99d3,AUNI,21Shares,2024-11-27,Other Asset Types
+ae3b47bb9e0441538a90931500476461,LIDO,21Shares,2024-11-27,Other Asset Types
+a64db71c377540648a87d9709d609691,2STS,Leverage Shares,2024-12-06,Equities (Stocks)
+a91b1cf6eff148948cd85da877ed02c9,ALTS,21Shares,2024-11-27,Other Asset Types
+aca48b96e7ed42aebfca8f39e32160c7,ATIA,21Shares,2024-11-27,Other Asset Types
+a4b73d07feb84f6e87509317f85a3908,OP6E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+a5555e8ee3544878bb9a2a55133cc2f2,HSUD,HSBC,2024-12-11,Equities (Stocks)
+a6bd691fc3d54d64b70cc8d07165f259,HIPS,HSBC,2024-12-11,Equities (Stocks)
+a79a35b498bd4aeb9e637b990c4918c4,BNBA,21Shares,2024-11-27,Other Asset Types
+aad9dd5698ce41d49bfcfee6b0881fc3,MXJ,HSBC,2024-12-11,Equities (Stocks)
+ab1a425bcc7046c69f5c8933bb8e94cb,HPAU,HSBC,2024-12-11,Equities (Stocks)
+afd5beda9683421391ce39541304e61e,ELFW,Deka ETF,2024-11-29,Equities (Stocks)
+b07445469f764d9893e00e99949c952c,ETHB,21Shares,2024-11-27,Other Asset Types
+b0f732ac08d04fd1be304e2ac82a1901,XLME,21Shares,2024-11-27,Other Asset Types
+b1ed57defbd64f7d96fd2bd5a0eefd79,RAS3,Leverage Shares,2024-12-06,Equities (Stocks)
+b4867200118c46d39f5074081f87b09d,OP8E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+b51b3cb6df8449f6a8eb053cab8f94af,EUPB,OSSIAM ETF,2024-12-11,Equities (Stocks)
+b52775af073a44f2a7cb665c3139fb5d,H41G,HSBC,2024-12-11,Equities (Stocks)
+b52b3ecedcb64599a7f18fb7da3e6fc9,SC03,Invesco,2024-12-06,Equities (Stocks)
+b58b22d66a9a4240905e7438af248768,5ESE,Invesco,2024-12-06,Equities (Stocks)
+b5d0ab83f4d54134bf093da10c6b4ed6,H4ZP,HSBC,2024-12-11,Equities (Stocks)
+af36e10dda594b5296eaef9cd7e5fc66,HMWA,HSBC,2024-12-11,Equities (Stocks)
+af723ecfbefc43fd980daac149499977,3AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+afbeb32adaf74c7da38719813c5cd9ca,3TAE,Leverage Shares,2024-12-06,Equities (Stocks)
+afc4ab4b5a1e47dfa657357c4cfa39a0,SNVD,Leverage Shares,2024-12-06,Equities (Stocks)
+afd84bd597df4e5a8d9dbf2305cc1705,3SPY,Leverage Shares,2024-12-06,Equities (Stocks)
+b1121c8df02244248e4cc462fbc3bddd,MXUS,Invesco,2024-12-06,Equities (Stocks)
+b1a041b401b54f5d884b6bc13e060317,5SPY,Leverage Shares,2024-12-06,Equities (Stocks)
+b1ade416603e406497ad3637318c3f5c,XL3S,Leverage Shares,2024-12-06,Equities (Stocks)
+b1bb84225af041ee99ad88efe7002de6,SSQE,Leverage Shares,2024-12-06,Equities (Stocks)
+b1d6031f536942cf8d052ec1e2ea2691,MXWS,Invesco,2024-12-06,Equities (Stocks)
+b24934612dbc496fb561975d894e8d48,3SMH,Leverage Shares,2024-12-06,Equities (Stocks)
+b38a87724b7841b8b6b02498c9ce3200,FAAN,Leverage Shares,2024-12-06,Equities (Stocks)
+b41877433ff04f8f9039b0a9467d217d,GDX3,Leverage Shares,2024-12-06,Equities (Stocks)
+b5f237c00014403a8654ffa2635bbf88,HSED,HSBC,2024-12-11,Equities (Stocks)
+b68b69fe7fcf4947ba7a131c1eba6363,HSXJ,HSBC,2024-12-11,Equities (Stocks)
+b6a53835b78044f2b4a3a0bcb25ad6a4,BUFE,Leverage Shares,2024-12-06,Equities (Stocks)
+b701cd179b684c69a1f7396fa56651cc,HUKS,HSBC,2024-12-11,Equities (Stocks)
+b7033b5c05cc4491833e6206e3deeda3,SVLT,Leverage Shares,2024-12-06,Equities (Stocks)
+b81c23bd3c8147479e981bb4e3aa0837,3DIS,Leverage Shares,2024-12-06,Equities (Stocks)
+b81e2b963758459fa2d74402a306539a,2AAP,Leverage Shares,2024-12-06,Equities (Stocks)
+b825264e216b4d2c93c7ddfb39af313d,JP2E,Leverage Shares,2024-12-06,Equities (Stocks)
+b85c9e89e37442d2a188875c9fb5a7f4,FAN1,Leverage Shares,2024-12-06,Equities (Stocks)
+b86924a8a95f49f596159c217061aed7,BA3S,Leverage Shares,2024-12-06,Equities (Stocks)
+b86a7867ecbd497797cbed3e1d94dd5a,NV3S,Leverage Shares,2024-12-06,Equities (Stocks)
+b8eebf617ab449929068da0bd3b479a7,3PLT,Leverage Shares,2024-12-06,Equities (Stocks)
+afe573efdddb413b8d4344d24ee8d0dc,XLES,Invesco,2024-12-06,Equities (Stocks)
+b3ba72d215a34b5395b4d0cf0b8e6b3f,C300,Invesco,2024-12-06,Equities (Stocks)
+b49b686b336743749d7c9a5661dc80b8,MAGS,Leverage Shares,2024-12-06,Equities (Stocks)
+b4c6e95d53bc441f9ba64a2fc8a30d18,3UBR,Leverage Shares,2024-12-06,Equities (Stocks)
+b828d487694840adbd8064e6a631498b,HNSC,HSBC,2024-12-11,Equities (Stocks)
+b0c273f0f2e04164ba27968dadb250c7,UCAP,OSSIAM ETF,2024-12-11,Equities (Stocks)
+b15054b14cd8428db894aa147972be9b,CBND,Goldman Sachs,2024-12-06,Bonds
+b21c6511a69f41d5b5935e5ba4e439d2,ALTS,21Shares,2024-11-27,Other Asset Types
+b285157f4aa04a27a97ef7349be85dbd,ABTCGBP,21Shares,2024-11-27,Other Asset Types
+b3be1fdf9ace46fb92b990c8617db71e,CMOC,Invesco,2024-12-06,Commodities & Metals
+b6f90c9e255648ce92cf138f3a8673b4,E500,Invesco,2024-12-06,Equities (Stocks)
+b0e41250b54549b59a16ecdf7e585882,2GS,Leverage Shares,2024-12-06,Equities (Stocks)
+b3200a8820ea424f89a79ddbc57a5ed6,AXLM,21Shares,2024-11-27,Other Asset Types
+b3f48086831d4aed8c65018a140b0b36,ASTX,21Shares,2024-11-27,Other Asset Types
+b4751ed0fa80425480802103b7100a24,3CON,Leverage Shares,2024-12-06,Equities (Stocks)
+b4e96ffbbb3a48eaad2c1b010e688b73,3AAP,Leverage Shares,2024-12-06,Equities (Stocks)
+af62335141524d4dad3e60450ef3eb84,WRD,HSBC,2024-12-11,Equities (Stocks)
+b13368f892ab44818e1ab7f9560a2ad6,AIMX,21Shares,2024-11-27,Other Asset Types
+b22eb8cbe6e54553884f50d05bc4553b,AETH,21Shares,2024-11-27,Other Asset Types
+b7147c1b7e7b4fccb25de1680edf66db,HIJS,HSBC,2024-12-11,Equities (Stocks)
+b979157b2611421b81081d313b7fe49b,3XEE,Leverage Shares,2024-12-06,Equities (Stocks)
+b9bd325225f44f798623e21406f52b28,MXUE,Invesco,2024-12-06,Equities (Stocks)
+ba8ebff50d6e4adeb8262eef8a3b2bd5,MKK1,Expat Capital,2024-11-29,Equities (Stocks)
+bb240243a31f4f018c19c3a9fb799202,H41K,HSBC,2024-12-11,Equities (Stocks)
+bb984f11a2dc46b088568d9491129142,QQ3S,Leverage Shares,2024-12-06,Equities (Stocks)
+bbcd2cd07aac477d8f3eb5ca76c999ad,JD3,Leverage Shares,2024-12-06,Equities (Stocks)
+bc33c89167054270babedb3d5165e861,FGA1,Leverage Shares,2024-12-06,Equities (Stocks)
+bd250c6303f1491383d942d3ddf4b153,QQQY,Leverage Shares,2024-12-06,Equities (Stocks)
+bd9532e077e84fc0b4cbc73feebef2a8,SSPY,Leverage Shares,2024-12-06,Equities (Stocks)
+bdf54fe60c484e3e9508d96a4b358f90,CO1S,21Shares,2024-11-27,Other Asset Types
+c013ecf78ace49fb9a6a1accb5e696e2,S7XE,Invesco,2024-12-06,Equities (Stocks)
+c0f2343f21304eef8bfb7e71c18b94b5,SC02,Invesco,2024-12-06,Equities (Stocks)
+c1529349d1aa461194e626187d514a0c,EQQX,Invesco,2024-12-06,Equities (Stocks)
+c1a957ccebec4c75a5ebb3cfd1cebe2b,SGDE,Leverage Shares,2024-12-06,Equities (Stocks)
+b918d5ce54484b14b925a36b621f5de4,BP3L,Leverage Shares,2024-12-06,Equities (Stocks)
+b9728c7d21cf4d44afdff09499c8d911,SPXS,Invesco,2024-12-06,Equities (Stocks)
+b9886444f663471ca887025eae7de80e,PYP3,Leverage Shares,2024-12-06,Equities (Stocks)
+b998cbd48e7346fdac4ac56012d683dd,1GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+b9b32673fa2440ae9cb10bc3916c53c1,FTEK,Invesco,2024-12-06,Equities (Stocks)
+ba7b69f81348495d9d5be663e3eb0e25,SBIU,Leverage Shares,2024-12-06,Equities (Stocks)
+ba9b0f0523c046fea1c134142567a0f6,3IND,Leverage Shares,2024-12-06,Equities (Stocks)
+bb1f1e34531647349df143a7ec54dbd0,XLBS,Invesco,2024-12-06,Equities (Stocks)
+bb6ac30ad5ae42dca90259c5623495c8,INDS,Leverage Shares,2024-12-06,Equities (Stocks)
+bbdb10d5be054c348afd4706442031d5,HSAX,HSBC,2024-12-11,Equities (Stocks)
+bbf0aa1d7eee40e082c1a38c11a560f0,GOOG,Leverage Shares,2024-12-06,Equities (Stocks)
+bbf51790c655478282ee4ceabe91fc4c,NVDS,Leverage Shares,2024-12-06,Equities (Stocks)
+bc83d07ee03a4d32b53c1fc1d1109913,NFLE,Leverage Shares,2024-12-06,Equities (Stocks)
+bc8d72a117014132b4e090185ba86f8c,MMLP,HANetf,2024-12-05,Equities (Stocks)
+bcc6371033344e0c9a3118eae8652cb9,HSXE,HSBC,2024-12-11,Equities (Stocks)
+bd2d2b56c8be4888af3730c6ffec2148,BUFF,Leverage Shares,2024-12-06,Equities (Stocks)
+bd5b05fc293d4eedb4e8805bfc29c270,3BPE,Leverage Shares,2024-12-06,Equities (Stocks)
+bd941d8aedfc44bb993099876eef361c,ARKC,Leverage Shares,2024-12-06,Equities (Stocks)
+bdcbe86f0c0349b2ae45a56921e014ac,HSES,HSBC,2024-12-11,Equities (Stocks)
+be1f689be68b4ec0b52c1042dfc052bc,AMZ2,Leverage Shares,2024-12-06,Equities (Stocks)
+be22820475914554a1de02351254303b,MLPQ,Invesco,2024-12-06,Other Asset Types
+be456460525f48fb840ce17e93c3d13e,3SMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+becdc4f56cb54ae4bf21e3eaba72d737,HMAD,HSBC,2024-12-11,Equities (Stocks)
+bee3106740d74a6eb3116aa6c0d8afea,3MSE,Leverage Shares,2024-12-06,Equities (Stocks)
+bf9972152f154303a711c1a93d5df89b,3GLD,Leverage Shares,2024-12-06,Commodities & Metals
+bff020b03ce44e59a611aa42f3b732b7,HPNS,HSBC,2024-12-11,Equities (Stocks)
+c008ba015b5f4fe9ad750d58a772e331,2TSE,Leverage Shares,2024-12-06,Equities (Stocks)
+c120d4d188c74f1091a8f9592ac667a6,XLVP,Invesco,2024-12-06,Equities (Stocks)
+c12b8bc8f6cb4271b9eb97b0358bed71,STSM,Leverage Shares,2024-12-06,Equities (Stocks)
+c17eb2ba06aa4248b6cbbd656706b74f,AM3S,Leverage Shares,2024-12-06,Equities (Stocks)
+c1aeda5a9c3c425885265a589219ed25,1ARG,Leverage Shares,2024-12-06,Equities (Stocks)
+c24ceb6f40804e42ae44359bdeadc141,FAAA,Fair Oaks,2024-12-10,Bonds
+c254c3cca8da4fe68f7de3a1616804eb,3BAE,Leverage Shares,2024-12-06,Equities (Stocks)
+c2b2aa392d6c4106b97344be0b5bf9c4,BAB2,Leverage Shares,2024-12-06,Equities (Stocks)
+bb3012742a6f49068413c4fa59e36139,HWDE,HSBC,2024-12-11,Equities (Stocks)
+bb991299452448dbaf615cbe92d8e4f1,SPXD,Invesco,2024-12-06,Equities (Stocks)
+beb9a1bd231f4294a13df19aee3d6a6c,HEMA,HSBC,2024-12-11,Equities (Stocks)
+bf2cfda3d07e4ed7b0d402556e5a3d88,S3CO,Leverage Shares,2024-12-06,Equities (Stocks)
+c0dd0046fe8045ba83556a09b85d476e,CMOD,Invesco,2024-12-06,Commodities & Metals
+c127abd2749a4159a6f9a7829cd05641,HPRD,HSBC,2024-12-11,Equities (Stocks)
+c1d5dd846bcb4225b59771f3fa2c27f8,HMCH,HSBC,2024-12-11,Equities (Stocks)
+c2e0b6246fb74d0dbcf9cf51116f4245,SMSWLD,Invesco,2024-12-06,Equities (Stocks)
+b95374d55879479ca02da3c849185872,SX5D,Invesco,2024-12-06,Equities (Stocks)
+bab69ed5b5b34ae0bfadbf9d179d9dc0,XLVS,Invesco,2024-12-06,Equities (Stocks)
+bbac77c28fcf4f0389144e6285bd061c,BOLD,21Shares,2024-11-27,Target Date / Multi-Asset
+bc2367fa73b04f9bbd668979a94aa9ed,FTEK,Invesco,2024-12-06,Equities (Stocks)
+c083f72dbde44b918f18d59d4b7265be,SBTC,21Shares,2024-11-27,Other Asset Types
+c0f885566165475081ed1b2b26b73fc3,OP6E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+c31a3c47a11746a99e3929bebe3c8dda,ABTCCHF,21Shares,2024-11-27,Other Asset Types
+bd2bdffca8ef4156a315891179bae722,AINJ,21Shares,2024-11-27,Other Asset Types
+beb244aa8b3e4ab8a8c1e4679d9ee247,ADOT,21Shares,2024-11-27,Other Asset Types
+c26d445a308a484385d173c11f2ac8b5,1ARKW,Leverage Shares,2024-12-06,Equities (Stocks)
+bda49ca082cf4c3e84efce538811237d,AAVE,21Shares,2024-11-27,Other Asset Types
+bfda970659f54afca8efb3967a8d1d16,AINJ,21Shares,2024-11-27,Other Asset Types
+c2ab34963b664b6e8d6553c0b89e5fd9,ALINK,21Shares,2024-11-27,Other Asset Types
+c4a33b4f9a1040c79c3d91f7044570b7,ONVD,Leverage Shares,2024-12-06,Equities (Stocks)
+c54c77189d654543a61d7977736c4fab,2VA,Leverage Shares,2024-12-06,Equities (Stocks)
+c674e79dea7540c79ea029b0f40bf334,3VTE,Leverage Shares,2024-12-06,Equities (Stocks)
+c6b7c033da0c41a28e3ebf34bb41cb2d,SXLG,Leverage Shares,2024-12-06,Equities (Stocks)
+c6c12097a4b546aeb42a6b3b809d9f23,NVIS,Leverage Shares,2024-12-06,Equities (Stocks)
+c711ff3b6973441994179358cd8bc01e,SQA3,Leverage Shares,2024-12-06,Equities (Stocks)
+c79fefeae3274408b6d46cb12292515b,EL40,Deka ETF,2024-11-29,Equities (Stocks)
+c7b4d3c398234d88a8fe02d2851d348c,H41H,HSBC,2024-12-11,Equities (Stocks)
+c844fa50af74420bbfebc007ff6d7db3,SJD,Leverage Shares,2024-12-06,Equities (Stocks)
+c878aa3bdabe492a971701baf4586a02,V21A,21Shares,2024-11-27,Other Asset Types
+c9d15370aa334937ad3dc3c572b39f2d,GACA,Goldman Sachs,2024-12-02,Equities (Stocks)
+ca1768c89c95472cb9845c5ae959ae5d,SC0T,Invesco,2024-12-06,Equities (Stocks)
+caf147f4729a4f9b9e6809be0031d3c6,MXUK,Invesco,2024-12-06,Equities (Stocks)
+cbc147c9470c42b39d07f50d7232310b,SC05,Invesco,2024-12-06,Equities (Stocks)
+cc3ef3bb9fd74bf385ee5208c82bbddd,2SKE,21Shares,2024-11-27,Other Asset Types
+cc9b93527f89435cabe5bc5cf47a0752,3KWB,Leverage Shares,2024-12-06,Equities (Stocks)
+cc9ea3beed684a35b0f380fd1d69fd29,GSXG,Goldman Sachs,2024-12-06,Bonds
+c352750ca56a461caf978070a92f5369,3NIE,Leverage Shares,2024-12-06,Equities (Stocks)
+c3aa3753dd8945399b7d0b57157f6a9b,XLEP,Invesco,2024-12-06,Equities (Stocks)
+c3bb7a28e67d4016bf837c0a6be3b463,SMEU,Invesco,2024-12-06,Equities (Stocks)
+c3ca82e4791f42528c076ee96be05917,HSDS,HSBC,2024-12-11,Equities (Stocks)
+c42e547ce7c9456c9d23aabf0f2503c7,GGES,Leverage Shares,2024-12-06,Equities (Stocks)
+c44330456a334f99b922cc3f03f98b64,HWDA,HSBC,2024-12-11,Equities (Stocks)
+c45b9da818fc4432aba0017a63130c9f,SCHE,Leverage Shares,2024-12-06,Equities (Stocks)
+c460d0b490f744c899050c5be8802541,MRN3,Leverage Shares,2024-12-06,Equities (Stocks)
+c6afcf84556046028b6da1aa3588e58e,SMHS,Leverage Shares,2024-12-06,Equities (Stocks)
+c78ec660e5d04f18852464abc605c934,2MUE,Leverage Shares,2024-12-06,Equities (Stocks)
+c7d1cf2017fd487495a9c5f49db1b0c3,COII,Leverage Shares,2024-12-06,Equities (Stocks)
+c84ec71ffe5a4ae38a53b7888b777bed,3GDE,Leverage Shares,2024-12-06,Equities (Stocks)
+c8b72c4bc6bf4a749aad5d5e4fd59968,ETHU,21Shares,2024-11-27,Other Asset Types
+c8f21811c3c84d5eaf40c140e492f0fd,X7PP,Invesco,2024-12-06,Equities (Stocks)
+c914b9265bc9427fa18093448e9546d6,EQSG,Invesco,2024-12-06,Equities (Stocks)
+c9b5fbab00834f4ca325a3ca915c4a15,FB2E,Leverage Shares,2024-12-06,Equities (Stocks)
+c9eb62e406c94b9cbdc76a195f6c72db,ARKB,Leverage Shares,2024-12-06,Equities (Stocks)
+ca0a9b99bcf0470ea427bcf51fdf8af6,AAP2,Leverage Shares,2024-12-06,Equities (Stocks)
+cafa86da0eaf4e8e9e3517385f9bdf8b,COIB,Leverage Shares,2024-12-06,Equities (Stocks)
+cb3337057fb744909fe7ef493cc53cf0,3ABE,Leverage Shares,2024-12-06,Equities (Stocks)
+cbc6b9e1415f4a2d9de473b20d8bd420,MAG7,Leverage Shares,2024-12-06,Equities (Stocks)
+cbe83a40a8794759a01c4edc6e907c0e,3SRA,Leverage Shares,2024-12-06,Equities (Stocks)
+cc1a8c3b925a421eb03374b90db55465,HPAJ,HSBC,2024-12-11,Equities (Stocks)
+cc2f15dbdf7f41f28378d2d5faa0ac84,SBIE,Leverage Shares,2024-12-06,Equities (Stocks)
+c610ecf923da40428a0810440f1be7a5,HMEU,HSBC,2024-12-11,Equities (Stocks)
+c8157706e4824c9c829b563287f166ca,SOXL,Leverage Shares,2024-12-06,Equities (Stocks)
+c9bcf47c215f4195a9641d0b0613b23c,SPXS,Invesco,2024-12-06,Equities (Stocks)
+c3aed330c12f4eb5b5016cdc37212452,POLYEUR,21Shares,2024-11-27,Other Asset Types
+c440cdb71f70488da30c292720b023d1,HTWN,HSBC,2024-12-11,Equities (Stocks)
+c4a4b1a0d5d049c986d827e549352cd7,ABCH,21Shares,2024-11-27,Other Asset Types
+c4e425ab557b476887fd527cfa79990b,HSWD,HSBC,2024-12-11,Equities (Stocks)
+c7fbb868a91346f58bc0cca8f933a2b4,CAPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+c88e4ea1d7a94cb48b2a3839831aa082,USTP,OSSIAM ETF,2024-12-11,Bonds
+c8c6193d43da43869060337650b217bf,BOLDGBP,21Shares,2024-11-27,Target Date / Multi-Asset
+c9fe7340d58940d280f0a13b98fca7c8,HPRD,HSBC,2024-12-11,Equities (Stocks)
+ca1c03ccd1044e2ca007fb977d2cb95c,HMEU,HSBC,2024-12-11,Equities (Stocks)
+c7459438d87f4adda67b8e136fc5add7,ONDO,21Shares,2024-11-27,Other Asset Types
+c779d80583924329af4c88182f6b1018,SPLR,Leverage Shares,2024-12-06,Equities (Stocks)
+cb81d435939f4b2b9beb3d5d27f249ce,AOPT,21Shares,2024-11-27,Other Asset Types
+c490994202b6464cac8a1bf60dac8bff,ATIA,21Shares,2024-11-27,Other Asset Types
+ce1f468faf10416499a1ed51b06c7bfa,21XL,21Shares,2024-11-27,Other Asset Types
+ce5e288757a24354be18bea3a2870b90,SC0W,Invesco,2024-12-06,Equities (Stocks)
+d0851a4a6a864aeca212db233277116c,GRX,Expat Capital,2024-11-29,Equities (Stocks)
+d28eb23476b643788fd16c558ea2923c,D6RS,Deka ETF,2024-11-29,Equities (Stocks)
+d3ef884da6054d3d99a5845e9ea34378,GACL,Goldman Sachs,2024-12-06,Equities (Stocks)
+d52d82dcbf9e4d9a883beee732c2ddb7,SSLE,Leverage Shares,2024-12-06,Commodities & Metals
+d53fce84bf9548abaaee337d04560377,SDIE,Leverage Shares,2024-12-06,Equities (Stocks)
+d5fb9328dfe64f59af1601fc73cea3b4,3TSE,Leverage Shares,2024-12-06,Equities (Stocks)
+d67e49f7058941d8af00a9f27c2b5fed,2MUE,Leverage Shares,2024-12-06,Equities (Stocks)
+d70d288bf29f4d3eae82790254e633d0,POLY,21Shares,2024-11-27,Other Asset Types
+cdf35d2aaa1041169370836ceb26429b,HMCX,HSBC,2024-12-10,Equities (Stocks)
+ce3a3e94b1784bfd85e04782351d6d72,HPJP,HSBC,2024-12-11,Equities (Stocks)
+cea2d21745524d92bc2ce25d58dc452f,XLGS,Leverage Shares,2024-12-06,Equities (Stocks)
+cf7f9c6017674993935df675f1b74625,3FB,Leverage Shares,2024-12-06,Equities (Stocks)
+cfe26b4097c64dd2bb2836c1fe8b51d3,SPYS,Leverage Shares,2024-12-06,Equities (Stocks)
+cff8e384eeba4dc59ef30f9ce0a277f5,3MST,Leverage Shares,2024-12-06,Equities (Stocks)
+d00d25bffe0442a3812def6f2062c1ee,SNVE,Leverage Shares,2024-12-06,Equities (Stocks)
+d086d9c144b24125b873d656f89171cb,3SXO,Leverage Shares,2024-12-06,Equities (Stocks)
+d10e765ce5104ad0a8cb19bc17ead9c5,SDAX,Leverage Shares,2024-12-06,Equities (Stocks)
+d207745e30c04f37b899a1b479222571,3KOR,Leverage Shares,2024-12-06,Equities (Stocks)
+d22fa89775ab454eb86aa6e335ad8e5e,PYPS,Leverage Shares,2024-12-06,Equities (Stocks)
+d230a98233e04fc6bd79b8fc5bd56310,HSEP,HSBC,2024-12-11,Equities (Stocks)
+d2579039148a421e97fb2d178ab58a16,CMOP,Invesco,2024-12-06,Commodities & Metals
+d30c9605c30d40cca26b8b46de12c8b8,WTIL,Leverage Shares,2024-12-06,Commodities & Metals
+d41b760b15614e6e9ea82f599140e80f,XOM3,Leverage Shares,2024-12-06,Equities (Stocks)
+d425712256a74ef686fcda1197d79d0a,HSDD,HSBC,2024-12-11,Equities (Stocks)
+d42d78f97ae34871a92a6ab5fa271818,AMZ3,Leverage Shares,2024-12-06,Equities (Stocks)
+d4e2509881f144f3a5b741bdf9fa71ec,3BBE,Leverage Shares,2024-12-06,Equities (Stocks)
+d606ba6cf2a34a1387e1215791f38a3c,2FB,Leverage Shares,2024-12-06,Equities (Stocks)
+d68ebd9f85fc4953881b491701765805,CAPE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+ce0d0c769ea749449e1c47a7c6d1dcab,TSLQ,Leverage Shares,2024-12-06,Equities (Stocks)
+d0c0523369f344d891ec89798288c511,HSPD,HSBC,2024-12-11,Equities (Stocks)
+d19cac170fe84a0899095c264f48b09b,C500,Invesco,2024-12-06,Equities (Stocks)
+d259d4b743be4aafa2a87c43a39e78d2,CBND,Goldman Sachs,2024-12-06,Bonds
+d59aed9c00af40d388de0424cef023e4,5OGE,OSSIAM ETF,2024-12-11,Equities (Stocks)
+d6f2e20c945d4f7589cbcf8ecb9fbf85,3RAC,Leverage Shares,2024-12-06,Equities (Stocks)
+cd55806b56634271908bb4244e2ac8bb,AXRP,21Shares,2024-11-27,Other Asset Types
+cf044cd277414d6a838b1780a5e12fc9,ABTC,21Shares,2024-11-27,Other Asset Types
+cf06fb6f3e644d8797bab86603110377,ALGOCHF,21Shares,2024-11-27,Other Asset Types
+d09e939f4d1f408f8771e8fa5c10740d,AFTM,21Shares,2024-11-27,Other Asset Types
+d0c1c4e7a34040649542e83d43f6e3fa,HODLX,21Shares,2024-11-27,Other Asset Types
+d14e1013e09846b9965dda2d7e6faa2e,AXTZ,21Shares,2024-11-27,Other Asset Types
+d1ace5bcc40a4d9a8c2b14be5d5c65f5,XLPS,Invesco,2024-12-06,Equities (Stocks)
+d460b9ad19b0438d87d998c731d983fd,AETHCHF,21Shares,2024-11-27,Other Asset Types
+d462ab61f2874bb1b6e1fcaa98e15d29,C500,Invesco,2024-12-06,Equities (Stocks)
+d664527284ec40a19ee1e6f6c70cc261,AADACHF,21Shares,2024-11-27,Other Asset Types
+d710ed77143142649af50eebde2445b8,ASOLGBP,21Shares,2024-11-27,Other Asset Types
+d7822ba5e3194e6fab600b5fe10ec3af,S7XE,Invesco,2024-12-06,Equities (Stocks)
+cebfd83e43724142b2452bff5b5c3272,2MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+d034a815f55c46ffb3bc84d1d293eabf,AADA,21Shares,2024-11-27,Other Asset Types
+d1f852236d0a48d58eee17cdf35aeb5a,3MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+d3a5d68baeec40b29def9bddc47bf7d2,SARKK,Leverage Shares,2024-12-06,Equities (Stocks)
+d75cc3f58c074a99a4569ee39aaa5e19,STAKE,21Shares,2024-11-27,Other Asset Types
+ce370459bf044ed99aa3729fe844283f,HAGG,HSBC,2024-12-11,Bonds
+cec2e981d26b4934a0d1add4617d93b4,HWSS,HSBC,2024-12-11,Equities (Stocks)
+cff32360e1694b1daad7fe5e742640c0,HSJA,HSBC,2024-12-11,Equities (Stocks)
+d0edbaaf03cd440c94ad84b8265e7387,ASOL,21Shares,2024-11-27,Other Asset Types
+d435f8972ed6409c849d250f5a0b08f0,HSTE,HSBC,2024-12-11,Equities (Stocks)
+d54160c7171f44f88079893459609d6e,PLX,Expat Capital,2024-11-29,Equities (Stocks)
+d829f82028c34cb2be9a981cffa874f2,SMLP,Invesco,2024-12-06,Other Asset Types
+db243c88377f4caeb3a679eef69f166b,SQS,Leverage Shares,2024-12-06,Equities (Stocks)
+dc74a7a4386f4253855e08e16a014414,D500,Invesco,2024-12-06,Equities (Stocks)
+dca99c2dcacb477888970da7f86e66f5,H4ZZ,HSBC,2024-12-11,Equities (Stocks)
+dd01b23969b84658b079c854ed8a9f5c,H21V,21Shares,2024-11-27,Other Asset Types
+ddcdb51036ab4044b567f7e2ad3d2ff8,FB3S,Leverage Shares,2024-12-06,Equities (Stocks)
+de4ba27ff6bd4bb0938c285d62b34810,H4Z2,HSBC,2024-12-11,Equities (Stocks)
+dec2435b4f61420fa60b4ae4f7daec97,QQL3,Leverage Shares,2024-12-06,Equities (Stocks)
+df947b9a3306402cb4a5d70a2ee7ca6b,XU8Z,HSBC,2024-12-11,Equities (Stocks)
+dfc330820ee6487ba6bfa75f85bc87bf,ADAA,21Shares,2024-11-27,Other Asset Types
+e04021d6001d4741aa1a195c429c4b92,EL41,Deka ETF,2024-11-29,Equities (Stocks)
+e0bf22042fa04c5aa85c140cf2a20156,HPAW,HSBC,2024-12-11,Equities (Stocks)
+e1506e3f03594ad5bfa9b77dcf7e6388,3CIN,Leverage Shares,2024-12-06,Equities (Stocks)
+e18638cb660d48ff92969103378600cd,EUPC,OSSIAM ETF,2024-12-11,Equities (Stocks)
+d7a9fd36903b42dbb0bb07bb7b3e873a,SOIE,Leverage Shares,2024-12-06,Commodities & Metals
+d88173e3965e4830ba19daf78a980d93,3AAP,Leverage Shares,2024-12-06,Equities (Stocks)
+d8ba7345e33b47b68734f5f5c58effed,3TSM,Leverage Shares,2024-12-06,Equities (Stocks)
+d8ddb6e664084443b617ec8b4978aa54,HMUS,HSBC,2024-12-11,Equities (Stocks)
+d9460d47b48d4e2f80950f326f56444d,SNV3,Leverage Shares,2024-12-06,Equities (Stocks)
+d9c5dc66a1174cf09853a824e38cd719,TAIS,Leverage Shares,2024-12-06,Equities (Stocks)
+d9d0ffe8ff504a20876f51e6689e96aa,MXEU,Invesco,2024-12-06,Equities (Stocks)
+da1293acc9674c4881123906d7e0c57a,SGS,Leverage Shares,2024-12-06,Equities (Stocks)
+da18d75588c24ba68093f32d2e1a40e4,QQQ5,Leverage Shares,2024-12-06,Equities (Stocks)
+daa39ca47ac040b3b46d05ed9bebd4fb,1ARK,Leverage Shares,2024-12-06,Equities (Stocks)
+dab36627bfaa44899f4dc6c045ebe7ed,SGSE,Leverage Shares,2024-12-06,Equities (Stocks)
+dad6e2646002455999b788865ef31e83,CO3S,Leverage Shares,2024-12-06,Equities (Stocks)
+db75962cc47547639933ad62c68b2592,SSMH,Leverage Shares,2024-12-06,Equities (Stocks)
+dc3631016bd447b18b0c001d79b4d2a6,MU2,Leverage Shares,2024-12-06,Equities (Stocks)
+dc447ea3631846e4988e18f79e8651e1,2JPM,Leverage Shares,2024-12-06,Equities (Stocks)
+dc6d5a9084664944b52ccdc9f616c6e9,SQ3,Leverage Shares,2024-12-06,Equities (Stocks)
+dd0f6b86e1c0425ea2af2f259ded1db4,HMEF,HSBC,2024-12-11,Equities (Stocks)
+dd414adcc0d9406695c4786128c6173e,LTSV,Leverage Shares,2024-12-06,Equities (Stocks)
+dd64cafd979b4e4fb1fbffca88c2804c,SUBR,Leverage Shares,2024-12-06,Equities (Stocks)
+de61a6c2e2ba49ea9945d3dc9ee62846,HPRO,HSBC,2024-12-11,Equities (Stocks)
+de64f5db6ea949a982da4a988c96afdf,HSUS,HSBC,2024-12-11,Equities (Stocks)
+deb88147259a4994ac395ab099a0b162,TSL2,Leverage Shares,2024-12-06,Equities (Stocks)
+def356b035c34d808da655c0168f291d,EQQS,Invesco,2024-12-06,Equities (Stocks)
+df6a55da974a4681bc80ef689bb5717a,HPES,HSBC,2024-12-11,Equities (Stocks)
+dfc957bdba1040078e81589018eae11f,CM5S,Invesco,2024-12-06,Equities (Stocks)
+dfe7c8bc51154c6e953d249e6fe0c985,3STL,Leverage Shares,2024-12-06,Equities (Stocks)
+dffaa1d99a1d4cc98678b523b0968c52,SPXP,Invesco,2024-12-06,Equities (Stocks)
+e0177b759f1a41c987cdab413e529505,3SQ,Leverage Shares,2024-12-06,Equities (Stocks)
+e03c2abfedc84353a783c20ea37d85b2,S250,Invesco,2024-12-06,Equities (Stocks)
+e095e90d26cc4a1daa3fc6f0af20d4f9,STS3,Leverage Shares,2024-12-06,Equities (Stocks)
+e153cfa3db304f98a9090713c11935d0,NFL2,Leverage Shares,2024-12-06,Equities (Stocks)
+dcda595bffce4ebca1f84c6cb681d8f0,MXFS,Invesco,2024-12-06,Equities (Stocks)
+dd375c81e10c4a35a2cb3a1c16f7d71a,5ESE,Invesco,2024-12-06,Equities (Stocks)
+df29166105344ad48420d0fc56810fce,HSWD,HSBC,2024-12-11,Equities (Stocks)
+d89d5bef50a0486e9d19303bc6d80b05,HPAW,HSBC,2024-12-11,Equities (Stocks)
+d8fef12915034f96b017bf2c85f1f27b,SHETH,21Shares,2024-11-27,Other Asset Types
+d93d20502e8b4188acd4ffb40eb29d65,XLKS,Invesco,2024-12-06,Equities (Stocks)
+da239d3b03aa4239bee3da5538058538,GSEM,Goldman Sachs,2024-12-06,Equities (Stocks)
+db75620919fd42dc91f15ccddbd447ee,MXUD,Invesco,2024-12-06,Equities (Stocks)
+e0ca167eaa7e471aacae5d4c2eadf210,S6EW,OSSIAM ETF,2024-12-10,Equities (Stocks)
+d7e42b87ffeb43dcb872612baab63609,3JD,Leverage Shares,2024-12-06,Equities (Stocks)
+da4150efdc414e399ecdd11279c0b1d6,MSFT,Leverage Shares,2024-12-06,Equities (Stocks)
+dc1a33cb60854eaabd2a9bdd5696f2b2,AXTZ,21Shares,2024-11-27,Other Asset Types
+dc6bcb60454747beb91c306666523eb6,ALINK,21Shares,2024-11-27,Other Asset Types
+dcb29d0554bb419395cf613fe1da00fb,AVAX,21Shares,2024-11-27,Other Asset Types
+e12f014cde584139a34e4e8a0315965f,2BAB,Leverage Shares,2024-12-06,Equities (Stocks)
+da44f73f39a44c1397e4a2fd2dbc56c9,CNY,HSBC,2024-12-11,Equities (Stocks)
+dbf5f5a6752d42d0ac1892c3f7f8a46b,AXLM,21Shares,2024-11-27,Other Asset Types
+e3ea1146fb814edbaa2ca1d60916f77f,SC0V,Invesco,2024-12-06,Equities (Stocks)
+e473775c4c38409f92fe6c922db0fb81,D6RR,Deka ETF,2024-11-29,Equities (Stocks)
+e52dff10397b4c4bbe213c74794e2b84,SMLK,Invesco,2024-12-06,Equities (Stocks)
+e6dc5c61a69d468d8751f6c93bd75aac,BOLD,21Shares,2024-11-27,Target Date / Multi-Asset
+e6fd8acc016b4196a085194375ec80ce,D6RA,Deka ETF,2024-11-29,Bonds
+e7829db0423b48da85629e5deaa285b4,M9SD,Market Access,2024-12-06,Equities (Stocks)
+e8b6133dba404004b4937ada66b7925f,M9SA,Market Access,2024-12-06,Commodities & Metals
+ea096b11500e406e86c02956d7d15780,EQQD,Invesco,2024-12-06,Equities (Stocks)
+ea77602d58354473bd30212b09da2f11,EL44,Deka ETF,2024-11-29,Equities (Stocks)
+e2272f0abdab4a2493a4b3f42b26753a,GSEM,Goldman Sachs,2024-12-06,Equities (Stocks)
+e23f9d61d5c4486bb1b1f21bdc61d704,SNFE,Leverage Shares,2024-12-06,Equities (Stocks)
+e2d9ee61e54b40a88e988a4f354a9617,H50E,HSBC,2024-12-11,Equities (Stocks)
+e2dea843f2c740cdabb0d9be1fbb68f2,METI,Leverage Shares,2024-12-06,Equities (Stocks)
+e5ae2ef21d234b1e955cc24cfaae2b9d,2GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+e5ee738133ef4dac8d1e3b7697723f2d,3DXE,Leverage Shares,2024-12-06,Equities (Stocks)
+e64cbe80c772465887667ce0080f3df2,PLT3,Leverage Shares,2024-12-06,Equities (Stocks)
+e65502aa3de54fcca0faa7ab1be0acd9,HSUK,HSBC,2024-12-11,Equities (Stocks)
+e7795c6508884c3ea23d41042bcf98db,TLT5,Leverage Shares,2024-12-06,Bonds
+e855956b43414098991b53aa135703c1,SGOO,Leverage Shares,2024-12-06,Equities (Stocks)
+e85f1756314e452fb8210916dd2ea096,3XLF,Leverage Shares,2024-12-06,Equities (Stocks)
+e877b51faa7b4ec38876fca42280855a,SAME,Leverage Shares,2024-12-06,Equities (Stocks)
+e87cbbb1ac4f4203917082bf218398d4,3SGG,Leverage Shares,2024-12-06,Equities (Stocks)
+e8ad1bb2066a4b17810e758adef574a7,HWSS,HSBC,2024-12-11,Equities (Stocks)
+e95a9e816dc847a28bede3e3e26386c3,AMD2,Leverage Shares,2024-12-06,Equities (Stocks)
+e98185863b02439b987f3a78e4188a35,3JPN,Leverage Shares,2024-12-06,Equities (Stocks)
+ea43854e74584eee83eeda4569ff0bd2,5SIE,Leverage Shares,2024-12-06,Bonds
+eb407b1edf9643b7990adab7f8be8884,XLPP,Invesco,2024-12-06,Equities (Stocks)
+ebe54703acfa428ab7c4e82e0c54b14e,SXLG,Leverage Shares,2024-12-06,Equities (Stocks)
+ebefba72fd314c4eaceed2881a056db9,HLE1,Leverage Shares,2024-12-06,Equities (Stocks)
+e31cfbcd5ba34062a2fb7c2e561582fb,HPAU,HSBC,2024-12-11,Equities (Stocks)
+e355057435d64b71b9806c2bb792fbde,FAAN,Leverage Shares,2024-12-06,Equities (Stocks)
+e360f6fb552346a8a69bb021a6d83660,SDJ600,Invesco,2024-12-06,Equities (Stocks)
+e49a20ce9d844e9bb6e85bb148e5178c,3AMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+e5e7fd80b6544b76bec09f5b526e5c64,HTWN,HSBC,2024-12-11,Equities (Stocks)
+e6417ddeb521423eb1f5f95e37923e2c,MXUS,Invesco,2024-12-06,Equities (Stocks)
+e64d6c1b53874b0c935567ae882c6b00,S6EW,OSSIAM ETF,2024-12-10,Equities (Stocks)
+eafc4fedccd747a68f111531c6d86beb,HMWD,HSBC,2024-12-11,Equities (Stocks)
+e3f6b88c787e456f987f04db474b5556,ADOT,21Shares,2024-11-27,Other Asset Types
+e7f7b83b3d74494cab475fa7bc58ee42,AADAGBP,21Shares,2024-11-27,Other Asset Types
+e967e1246d664bd588b0565574919add,ASOL,21Shares,2024-11-27,Other Asset Types
+ea6a1eaa1b50401c935f3704029a9ee1,MXFS,Invesco,2024-12-06,Equities (Stocks)
+eacca3a2587e4959aebc4350165f9bcf,OP8E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+e39cbf033c2646f38a5877f9dcf7c6e4,ABTC,21Shares,2024-11-27,Other Asset Types
+e517cc11b291415886603bcd56005018,2GOO,Leverage Shares,2024-12-06,Equities (Stocks)
+e7f3e8fb797f471da76270989a851840,3GDX,Leverage Shares,2024-12-06,Equities (Stocks)
+e5320becd7ff4b61be6c4e1bbb8f98e6,CAPU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+e949e62054c34412ac8829c9455f6c9c,HSWD,HSBC,2024-12-11,Equities (Stocks)
+eb72d8524c4c452783a96471ec9d4bdd,POLY,21Shares,2024-11-27,Other Asset Types
+ebf0c67ff89b4fd2b435cae621ed8b06,5OGU,OSSIAM ETF,2024-12-11,Equities (Stocks)
+ed17f4b35c66458cafdaec7401dc3f16,1STS,Leverage Shares,2024-12-06,Equities (Stocks)
+ed43bcb1da734930981da99a3cb31376,3NFE,Leverage Shares,2024-12-06,Equities (Stocks)
+ee23adf77c9740f9a8d1928217da2022,EL43,Deka ETF,2024-11-29,Equities (Stocks)
+ef89fe02c6654cb594676466fc5a05a3,H4ZB,HSBC,2024-12-11,Equities (Stocks)
+ef913805fee64abfa4bd600bd4e172e7,SGYE,Leverage Shares,2024-12-06,Equities (Stocks)
+f1f614ea8b3b4c3081ece5b84f55ae3b,D6RT,Deka ETF,2024-11-29,Equities (Stocks)
+f2b748dc533a49cead00d2a0d8e8b71f,OAMZ,Leverage Shares,2024-12-06,Equities (Stocks)
+f3420a34b5ad4e8d9b1b00fb62755ab9,ABN3,Leverage Shares,2024-12-06,Equities (Stocks)
+f38e603eab424d7fac43bd9e57fd8b26,ROX,Expat Capital,2024-11-29,Equities (Stocks)
+f437a2ce321d423197ced2fc19dd419e,SC0K,Invesco,2024-12-06,Equities (Stocks)
+f43f3b4ae0e64a149bad863897417ca9,ARK1,Leverage Shares,2024-12-06,Equities (Stocks)
+f4fd511e27c34e1f9d12a0bcc95f7f48,XO3S,Leverage Shares,2024-12-06,Equities (Stocks)
+ec309ffe5b6d4c45bbc593e64053c8b9,3NVD,Leverage Shares,2024-12-06,Equities (Stocks)
+ed956e2f2b024fb88b04b5adcba57c6a,MST3,Leverage Shares,2024-12-06,Equities (Stocks)
+edaee9254cb8413ca01be284e3f30db9,S6EW,OSSIAM ETF,2024-12-10,Equities (Stocks)
+edc192ed44c44d3abfe6254ca1d60eff,2GS,Leverage Shares,2024-12-06,Equities (Stocks)
+edf6e9eae57a47a9bcefb9ac7c8ad904,HWWD,HSBC,2024-12-11,Equities (Stocks)
+ee338a3295544374a6bc81b1e54ed064,SDIE,Leverage Shares,2024-12-06,Equities (Stocks)
+ee6182091e3e435080ba07001f2e251c,HSJA,HSBC,2024-12-11,Equities (Stocks)
+eea69a3feb9d4449906b08f62f09d4f2,XLKQ,Invesco,2024-12-06,Equities (Stocks)
+ef17910f3d164dd2998a5048e75da7b0,MXFS,Invesco,2024-12-06,Equities (Stocks)
+efbfb8ecfd704deab3eba6140c70206c,3ARE,Leverage Shares,2024-12-06,Equities (Stocks)
+f01fcf2ab2f8402283cb3091ca65b16b,RAC3,Leverage Shares,2024-12-06,Equities (Stocks)
+f0561e59110545629b887a8d3c5e918b,AMZN,Leverage Shares,2024-12-06,Equities (Stocks)
+f0f85f51020c46ad95417fb2a75f9875,HMUD,HSBC,2024-12-11,Equities (Stocks)
+f13e98fc85854e7db35656ddcb3f484e,HIJS,HSBC,2024-12-11,Equities (Stocks)
+f293e41ed499417fa0a0d7c3c650fada,HSDU,HSBC,2024-12-11,Equities (Stocks)
+f314e4f11d184c2bb90233373167a437,AMZI,Leverage Shares,2024-12-06,Equities (Stocks)
+f3356d7c01434931999bd4390570f8dd,S400,Invesco,2024-12-06,Equities (Stocks)
+f368ada51067481a85a25af61ce83dfa,2TSL,Leverage Shares,2024-12-06,Equities (Stocks)
+f3f53cad47b94272b7e2b0988d0c37f2,GPT3,Leverage Shares,2024-12-06,Equities (Stocks)
+f4805db57a8b4882ba398d380a60d574,RTYS,Invesco,2024-12-06,Equities (Stocks)
+f4924676558d494f87d837895e8f9030,HESC,HSBC,2024-12-11,Equities (Stocks)
+f4c5231fa92a445ebefba5fac9a6826b,HSPS,HSBC,2024-12-11,Equities (Stocks)
+f51517a7174f418982728d6598eda124,SALE,Leverage Shares,2024-12-06,Equities (Stocks)
+f5162a2271e7485bb521678a9e1f6998,HEMC,HSBC,2024-12-11,Equities (Stocks)
+ed2338ff87814b31a65671c932ee6695,3FB,Leverage Shares,2024-12-06,Equities (Stocks)
+f014c526b2334eb2b47e0963907bfc63,XLYS,Invesco,2024-12-06,Equities (Stocks)
+f46d52750af7419ea006b9530149ff96,GPTS,Leverage Shares,2024-12-06,Equities (Stocks)
+f48154e1dc1f4e7cb96aa82eeefff16f,3CON,Leverage Shares,2024-12-06,Equities (Stocks)
+f512b80a201c4b70b7a7a7b13996f58d,HMCA,HSBC,2024-12-11,Equities (Stocks)
+efc0870e6e764bed8a7d71a306e2d008,XLYS,Invesco,2024-12-06,Equities (Stocks)
+f02789943ef54681a6afcae7ff44f40d,HUKX,HSBC,2024-12-11,Equities (Stocks)
+f0dec4773870406caa4e8884dfdcfa89,OP7E,OSSIAM ETF,2024-12-11,Equities (Stocks)
+f11d1b2d784a4af48753e457d6a4c035,ALGOEUR,21Shares,2024-11-27,Other Asset Types
+f206d4cab31c4d9cb1b3c8bf6aa34b42,ABTCEUR,21Shares,2024-11-27,Other Asset Types
+edcdf29137994c45be4d2c87219a8a20,3NIO,Leverage Shares,2024-12-06,Equities (Stocks)
+ee7c16aeed3d4225aa95f96b888ad7fc,2AAP,Leverage Shares,2024-12-06,Equities (Stocks)
+eeb351dd7cad44c79480972ebbb2651a,3SMH,Leverage Shares,2024-12-06,Equities (Stocks)
+ef8ddac9378b4873a22f9927ce8d9d44,GOOG,Leverage Shares,2024-12-06,Equities (Stocks)
+f18fec5b5c5e41fea29186898ff22637,HODLV,21Shares,2024-11-27,Other Asset Types
+f1ec7f9b94e84dfda8c54c0e538265e8,PYTH,21Shares,2024-11-27,Other Asset Types
+f1f40c4e53344a37829d02cb6a7241e0,2AMD,Leverage Shares,2024-12-06,Equities (Stocks)
+f456af6f00b64fbf97068b6413bac851,3AMD,Leverage Shares,2024-12-06,Equities (Stocks)
+f4ccaf1c3e1842d48ad270d0b1ce8c98,SAMD,Leverage Shares,2024-12-06,Equities (Stocks)
+edee6b7e533546be9017aeefc18688e6,ALTS,21Shares,2024-11-27,Other Asset Types
+ee76da1aeca349708de62860207fc504,ABCH,21Shares,2024-11-27,Other Asset Types
+eff9f45d970d46bbbb6435cc43883f7f,ASUI,21Shares,2024-11-27,Other Asset Types
+f386db5e5d11460299012274203a9a46,HCAN,HSBC,2024-12-11,Equities (Stocks)
+ef72297070bf4c10a7090970ba249b73,SLQX,Expat Capital,2024-11-29,Equities (Stocks)
+f90ec807bcbf4ab58e70e509410c8d07,TS3E,Leverage Shares,2024-12-06,Equities (Stocks)
+fa1fa395e7d54f31ae4f24129dc9a029,OP6E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+fa82bb29e482443681a4d5b19759c920,H4ZF,HSBC,2024-12-11,Equities (Stocks)
+fb5350ae7d5f4a958503cd39735e1951,SIN3,Leverage Shares,2024-12-06,Equities (Stocks)
+fd48faabe55841aeaa3e2336741ffb06,QQQ5,Leverage Shares,2024-12-06,Equities (Stocks)
+ff44ef6ed9a9421ba17e5fe23b5f18a5,D6RP,Deka ETF,2024-11-29,Equities (Stocks)
+f59065f8f47a44a5a0f9741a1625bd37,RA3S,Leverage Shares,2024-12-06,Equities (Stocks)
+f5e85b80dc244fc391406707a676e1fc,3MRN,Leverage Shares,2024-12-06,Equities (Stocks)
+f6733435759b40368e4f7f193e97c505,SNDE,Leverage Shares,2024-12-06,Equities (Stocks)
+f705dd9e19e24cb795f338d0dce5f4a1,PMLP,HANetf,2024-12-05,Equities (Stocks)
+f7134fd5edb34e3aaf8a4199f4d7e296,N400,Invesco,2024-12-06,Equities (Stocks)
+f739a20b4f16464fb9c13657af918da3,3ARM,Leverage Shares,2024-12-06,Equities (Stocks)
+f7c1224c279b4b2a853d7ae1ea6013c0,SXFE,Leverage Shares,2024-12-06,Equities (Stocks)
+f7c2d860080f4ff183a2679b71068148,CMOD,Invesco,2024-12-06,Commodities & Metals
+f8a8fbf24faa48bd954e611c01221e2b,TSMS,Leverage Shares,2024-12-06,Equities (Stocks)
+f8dadf86178a42668d3169f94d761346,PLTS,Leverage Shares,2024-12-06,Equities (Stocks)
+f8fe234df30a49c3b1caa7925250d434,SGDX,Leverage Shares,2024-12-06,Equities (Stocks)
+f99843cbb04444ad86838ed82a833ddb,GS2E,Leverage Shares,2024-12-06,Equities (Stocks)
+f9db1e4a341843af9f69c56a267c1900,HMAF,HSBC,2024-12-11,Equities (Stocks)
+fa0e0738e6c643c49f9f72f19362664c,HSPX,HSBC,2024-12-11,Equities (Stocks)
+fb0c6aa283e542ecb07c16322a0c7892,2BRK,Leverage Shares,2024-12-06,Equities (Stocks)
+fb196c0025cf482faea0a7b701b06af6,MSFY,Leverage Shares,2024-12-06,Equities (Stocks)
+fb73967c36964defbc52c1f2630a0777,3SQE,Leverage Shares,2024-12-06,Equities (Stocks)
+fc545eec061740a585a21a320094b84d,SMAG,Leverage Shares,2024-12-06,Equities (Stocks)
+fce1a69f579a4fd99b501d05f3d976b9,CULS,Leverage Shares,2024-12-06,Commodities & Metals
+fd26d182c4b3417bbade86e721ba1a5d,N4US,Invesco,2024-12-06,Equities (Stocks)
+fd90e86c251042478f70f3ab758bbd2b,IND3,Leverage Shares,2024-12-06,Equities (Stocks)
+fd9fe01d22cb44fbacbff9394bffcba6,SSKE,Leverage Shares,2024-12-06,Equities (Stocks)
+fe5870947ab546b39827100436b1aab6,NVD3,Leverage Shares,2024-12-06,Equities (Stocks)
+fe8790258129435695f1d7a950453bab,3APE,Leverage Shares,2024-12-06,Equities (Stocks)
+ff72f8edfd9c424fb25cbc9cf2d44325,S100,Invesco,2024-12-06,Equities (Stocks)
+f786ba746aa7402c963d519f6c793d91,HPNA,HSBC,2024-12-11,Equities (Stocks)
+f7b5a2c9c78d4b89a0579b3c15af50f8,HITC,HSBC,2024-12-11,Equities (Stocks)
+fa4e91535ab74de2b1e56eb98975fe8f,3AAP,Leverage Shares,2024-12-06,Equities (Stocks)
+fb464b2755f6413e8271cbe5a14c87ef,3BID,Leverage Shares,2024-12-06,Equities (Stocks)
+fef3e76f67404ce794d00a0315638ff6,3NFL,Leverage Shares,2024-12-06,Equities (Stocks)
+ff2a5dfb35734fac98de1b97c280cd89,SR2000,Invesco,2024-12-06,Equities (Stocks)
+f7b96c7d08a34d7e8e28cb66bca7c2d8,MRIC,Market Access,2024-12-06,Commodities & Metals
+f7bbeb6d41444cf6a6dde18e60a5f764,GSGR,Goldman Sachs,2024-12-06,Bonds
+f982362d311d46319c8ab5ecb9e56c35,AADA,21Shares,2024-11-27,Other Asset Types
+f9977224adea4be3bf914249664441ac,HMEF,HSBC,2024-12-11,Equities (Stocks)
+fd22bc2be5824160b9877e1e2d2a5e8e,XLBS,Invesco,2024-12-06,Equities (Stocks)
+fddc7f285c6e4bca9f020b010e92d8b8,C300,Invesco,2024-12-06,Equities (Stocks)
+f6c372d016954b4b807bbdc4bec0d68f,SSPY,Leverage Shares,2024-12-06,Equities (Stocks)
+f7ee9581f14348e58ec5adb336488695,SDIS,Leverage Shares,2024-12-06,Equities (Stocks)
+f80e758a20ed4e5b8cd76ddaa964139e,AAVE,21Shares,2024-11-27,Other Asset Types
+f8cd9c14b01a465c9f553b850d7728d3,2JPM,Leverage Shares,2024-12-06,Equities (Stocks)
+fade1d3348c64123a514fad68d594648,HODLX,21Shares,2024-11-27,Other Asset Types
+fccb6ec1692648f0b153d609ecd2cfab,3TSM,Leverage Shares,2024-12-06,Equities (Stocks)
+fcda6be3b0c846e4928426164512ceb4,3DIS,Leverage Shares,2024-12-06,Equities (Stocks)
+fdd3fb861ae34fb399bb658fb69526f0,2NFL,Leverage Shares,2024-12-06,Equities (Stocks)
+f5efaebce025469ab47e03b6c3510f0d,FUTR,21Shares,2024-11-27,Other Asset Types
+f675a07b88484df6852afcaa0217166c,OP2E,OSSIAM ETF,2024-12-10,Equities (Stocks)
+f7438d9af2de47b5950f6b3a0cf5af8a,ETHC,21Shares,2024-11-27,Other Asset Types
+f93a2ef6749b47dfbdea967be3806aa2,AXTZ,21Shares,2024-11-27,Other Asset Types
+fa18d219fc074788853fa444ba680a1f,AFTM,21Shares,2024-11-27,Other Asset Types
+fabef46c0cf542a6a6b6e95741b65926,HIUS,HSBC,2024-12-11,Equities (Stocks)
+fad7690aaa554cee875aa3cab82d1c9a,HODLV,21Shares,2024-11-27,Other Asset Types
+fc1a8ec8e96047c8a32965d913279f7f,HEMA,HSBC,2024-12-11,Equities (Stocks)
+feabee4f9eaa4685a6ef2f74e18aa2f9,S6EW,OSSIAM ETF,2024-12-10,Equities (Stocks)
+fe299bbc0acf42b19a2ba432a34789c2,ESNB,Expat Capital,2024-11-29,Equities (Stocks)
+ffa64c10cad244e390448a637ffd33c5,2MSF,Leverage Shares,2024-12-06,Equities (Stocks)
+ff83c5643ad74d958c043e9612c6af0e,ABNB,21Shares,2024-11-27,Other Asset Types

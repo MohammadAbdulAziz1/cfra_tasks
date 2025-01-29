@@ -1,0 +1,32 @@
+constituent_name,weighting_sponsor,constituent_ticker,Sector,quantity_held,Fund Name,Ticker Symbol,as_of_date
+UnitedHealth Group Incorporated,0.10195579,UNH,Health Care,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Goldman Sachs Group Inc.,0.07521894999999999,GS,Financials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Home Depot Inc.,0.0615039,HD,Consumer Discretionary,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Amgen Inc.,0.05566089,AMGN,Health Care,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+McDonald's Corporation,0.05299912,MCD,Consumer Discretionary,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Microsoft Corporation,0.04825753,MSFT,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Caterpillar Inc.,0.046183579999999995,CAT,Industrials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Honeywell International Inc.,0.04154355,HON,Industrials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Visa Inc. Class A,0.040033969999999995,V,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Chevron Corporation,0.03641334,CVX,Energy,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Travelers Companies Inc.,0.03548963,TRV,Financials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Boeing Company,0.03466161,BA,Industrials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Johnson & Johnson,0.03305244,JNJ,Health Care,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Salesforce Inc.,0.03080272,CRM,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+American Express Company,0.03024811,AXP,Financials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Apple Inc.,0.02923456,AAPL,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+International Business Machines Corporation,0.027959329999999998,IBM,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Walmart Inc.,0.02784412,WMT,Consumer Staples,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Procter & Gamble Company,0.0275297,PG,Consumer Staples,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+JPMorgan Chase & Co.,0.02642242,JPM,Financials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+3M Company,0.02596936,MMM,Industrials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+NIKE Inc. Class B,0.02071807,NKE,Consumer Discretionary,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Merck & Co. Inc.,0.01913038,MRK,Health Care,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Walt Disney Company,0.01855428,DIS,Communication Services,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Coca-Cola Company,0.01197504,KO,Consumer Staples,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Dow Inc.,0.01037759,DOW,Materials,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Cisco Systems Inc.,0.00874694,CSCO,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Walgreens Boots Alliance Inc.,0.00805757,WBA,Consumer Staples,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Verizon Communications Inc.,0.00747952,VZ,Communication Services,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+Intel Corporation,0.0059426,INTC,Information Technology,5985297.000,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
+U.S. Dollar,3.341e-05,CASH_USD,Unassigned,1023851.060,SPDR® Dow Jones® Industrial Average ETF Trust,D07,11-Nov-2022
